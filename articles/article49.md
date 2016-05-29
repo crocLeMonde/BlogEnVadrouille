@@ -1,61 +1,51 @@
 # Fiche du Laos
 ## Posté le 2008-06-26 à 12:18:42
 
-<h3>Drapeau</h3>
+### Drapeau
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214470058Q382.jpg" />
 
-<h3>Situation</h3>
+### Situation
+#### Presentation générale
 
-<h4>Presentation generale</h4>
-
-Avec une superficie de 236.800 km2, le Laos est enclave au coeur de la peninsule indochinoise. Il est borde a l’est et au nord par le Vietnam et la Chine, et limite a l’ouest et au sud par la Birmanie, la Thailande et le Cambodge.
+Avec une superficie de 236.800 km2, le Laos est enclavé au coeur de la péninsule Indochinoise. Il est bordé à l’Est et au Nord par le Viêtnam et la Chine, et limite à l’Ouest et au Sud par la Birmanie, la Thaïlande et le Cambodge.
 
 Le Mekong traverse le Laos sur 1898 km et dessine le principal axe du pays.
 
-Le point culminant du Laos, le Phou Bia avec 2820 m, se trouve au sud du plateau de Xieng-Khouang. Une quinzaine d’autres sommets depassent 2000 m.
+Le point culminant du Laos, le Phou Bia avec 2820 m, se trouve au sud du plateau de Xieng-Khouang. Une quinzaine d’autres sommets dépassent 2000 m.
 
-<h4>Liaisons avec la France</h4>
+### Population
 
-Il n’existe pas de vol direct entre la France et le Laos ; il est necessaire de transiter par Bangkok. Pour Paris-Bangkok, des vols quotidiens sont assures par plusieurs compagnies.
+Au Laos, soixante-huit groupes ethniques sont officiellement recensés. Parmi les plus importants, il faut citer les Lao Lum, ou Lao des plaines, représentant 45 a 50% de la population, les Lao Theung, ou Lao des vallées, comptant pour 30% et les Lao Sung ou Lao des montagnes, dont les 15% se répartissent en Hmongs, Meos ou Yaos.
 
-Il faut ensuite emprunter Lao Aviation ou Thai Airways entre Bangkok et Vientiane. Il faut compter douze heures de Paris a Bangkok, puis 90 minutes de Bangkok a Vientiane.
+|                                       |       LAOS      |    FRANCE    |
+| ------------------------------------- |: -------------: | -----------: |
+|Population                             |     5,2 millions|  	59 millions|
+|Densite                                |     22,8 hab/km²|   108 hab/km²|
+|Accroissement naturel de la population |              2,8|          0,46|
+|Esperance de vie                       |           59 ans|     78,86 ans|
+|Urbanisation                           |            17 %|      75,6 ans|
 
-<h3>Population</h3>
+### Climat
 
-Au Laos, soixante-huit groupes ethniques sont officiellement recenses. Parmi les plus importants, il faut citer les Lao Lum, ou Lao des plaines, representant 45 a 50% de la population, les Lao Theung, ou Lao des vallees, comptant pour 30% et les Lao Sung ou Lao des montagnes, dont les 15% se repartissent en Hmongs, Meos ou Yaos.
+Le Laos est un pays au climat tropical humide, marqué par deux saisons :
 
-<table>
-<tr><td></td>					<th>LAOS</th><th>FRANCE</th></tr>
-<tr><td>Population (en millions)</td> 		<td>5,2</td> 	<td>59</td></tr>
-<tr><td>Densite (habitants au km carre)</td>		<td>22,8</td> 	<td>108</td></tr>
-<tr><td>Accroissement naturel de la population</td><td>2,8</td> <td>0,46</td></tr>
-<tr><td>Esperance de vie (en annees)</td> 	<td>59</td> 	<td>78,86</td></tr>
-<tr><td>Urbanisation (en %)</td> 		<td>17</td> 	<td>75,6</td></tr>
-</table>
+- La saison sèche de septembre à avril, agréable en décembre janvier, très chaude en mars et avril : la température est comprise entre 14 degres et 25 degrés
+- La saison des pluies d’avril a septembre, tres humide et tres chaude, avec des orages frequents : la temperature est comprise entre 30degres et 44 degrés
 
-<h3>Climat</h3>
+### Villes principales
+#### Vientiane
 
-Le Laos est un pays au climat tropical humide, marque par deux saisons :
+Vientiane est la capitale politique et économique du Laos. Située sur la rive gauche du Mékong, elle compte environ 370.000 habitants. Elle devint pour la première fois capitale sous le regne du Roi Pothisarath (1520-1548). Elle fut rasée en 1826 par les Thaïs et retrouva son rang de capitale sous l’impulsion des Français au debut du XXème siècle.
 
-- la saison seche de septembre a avril, agreable en decembre-janvier, tres chaude en mars et avril : la temperature est comprise entre 14degres et 25degres ;
+#### Luang-Prabang
 
-- la saison des pluies d’avril a septembre, tres humide et tres chaude, avec des orages frequents : la temperature est comprise entre 30degres et 44degres.
+Luang-Prabang, avec 110.000 habitants, est l’ancienne capitale royale. Située au confluent de la Nam Khan et du Mékong, sur un site privilégié de la préhistoire, elle est la ville la plus riche du pays en pagodes.
 
-<h3>Villes principales</h3>
+#### Savannakhet
 
-<h4>Vientiane</h4>
+Forte de 147.000 habitants, Savannakhet est un port fluvial important, au carrefour d’un des postes frontières ouverts pour le commerce avec la Thaïlande et de la route menant au Viêtnam (Da-Nang).
 
-Vientiane est la capitale politique et economique du Laos. Situee sur la rive gauche du Mekong, elle compte environ 370.000 habitants. Elle devint pour la premiere fois capitale sous le regne du Roi Pothisarath (1520-1548). Elle fut rasee en 1826 par les Thais et retrouva son rang de capitale sous l’impulsion des Francais au debut du XXeme siecle.
+#### Pakse
 
-<h4>Luang-Prabang</h4>
-
-Luang-Prabang, avec 110.000 habitants, est l’ancienne capitale royale. Situee au confluent de la Nam Khan et du Mekong, sur un site privilegie de la prehistoire, elle est la ville la plus riche du pays en pagodes.
-
-<h4>Savannakhet</h4>
-
-Forte de 147.000 habitants, Savannakhet est un port fluvial important, au carrefour d’un des postes frontieres ouverts pour le commerce avec la Thailande et de la route menant au Vietnam (Da-Nang).
-
-<h4>Pakse</h4>
-
-Avec 72.000 habitants, au carrefour des routes vers la Thailande et le Cambodge, cette ville est l’ancien fief de la famille de Champassak qui regnait sur le Sud.
+Avec 72.000 habitants, au carrefour des routes vers la Thaïlande et le Cambodge, cette ville est l’ancien fief de la famille de Champassak qui régnait sur le Sud.

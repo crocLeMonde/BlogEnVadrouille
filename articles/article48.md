@@ -1,25 +1,20 @@
 # Pai
 ## Posté le 2008-06-26 à 12:17:32
 
-Pai... petite ville encaissee dans les montagnes, au nord ouest de Chiang Mai, dans le triangle d'or de la drogue aux frontieres du Myanmar, du Laos et de la Thailande. Pai a donc ete mon etape suivant Chiang Mai. Je devais y retrouver la deux Quebecois pour aller au Laos ensuite avec eux. Ce que j'avais pas vu c'est qu'en fait, ces deux jeunes frere et soeure sont du genre je dit un truc et je fais l'inverse.  Du coup je les ai vite oublies.
+Pai... petite ville encaissée dans les montagnes, au Nord Ouest de Chiang Mai, dans le triangle d'or de la drogue aux frontières du Myanmar, du Laos et de la Thaïlande. Pai a donc été mon étape suivant Chiang Mai. Je devais y retrouver là deux Québécois pour aller au Laos ensuite avec eux. Ce que j'avais pas vu c'est qu'en fait, ces deux jeunes frère et soeure sont du genre je dit un truc et je fais l'inverse. Du coup je les ai vite oubliés.
 
-Durant les trois heures de bus pour Pai, j'ai rencontre Ammar, photographe et videaste syrien. Nous avons passe une bonne partie des quatre jours ensemble.
+Durant les trois heures de bus pour Pai, j'ai rencontré Ammar, photographe et videaste Syrien. Nous avons passé une bonne partie des quatre jours ensemble.
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214286262syiV.jpg" alt="" width="640" />
 
-Nous avons la encore fait des tours en motor bike, pour se ballader, prendre des photos...
-
+Nous avons là encore fait des tours en motor bike, pour se ballader, prendre des photos...
 
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5x4t5&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5x4t5&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
 
-
-
-
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214286159uUtC.jpg" alt="" width="640" height="480" />
-
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214286138yJBp.jpg" alt="" width="640" height="480" />
 
-Et regardez ce que l'on voit au detours d'un chemin : une guest house qui vous propose de dormir dans un arbre : 
+Et regardez ce que l'on voit au detours d'un chemin : une guest house qui vous propose de dormir dans un arbre :
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214471897bdDK.jpg" alt="" width="640" height="480" />
 
@@ -27,6 +22,6 @@ Mais bon... la mienne c'est celle la :
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214471886LoCS.jpg" alt="" width="640" height="480" />
 
-J'en profite pour vous presenter Abby et Sue, deux anglaise avec lesquelles on a passe un peu de temps aussi. 
+J'en profite pour vous présenter Abby et Sue, deux Anglaise avec lesquelles on a passé un peu de temps aussi. 
 
-Revenez ici de temps en temps, des photos vont s'ajouter. 
+Revenez ici de temps en temps, des photos vont s'ajouter.

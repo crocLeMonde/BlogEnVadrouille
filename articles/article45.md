@@ -1,7 +1,7 @@
 # Bangkok
 ## Posté le 2008-06-12 à 14:00:11
 
-Alors alors... Je vous ai laissé à Hua Hin, petite ville en passe de devenir une grosse station balnéaire à 3 heures de bus de Bangkok. Je n'ai pas énormément de choses à vous dires à propos de cette ville, si ce n'est que le patron de la guest house "All Nations" est Anglais, et qu'il est fan de tennis. Nous avons regardé Roland Garros ensembles. Je suis resté 3 nuits a Hua Hin puis j'ai pris le bus pour Bangkok.
+Alors alors... Je vous ai laissés à Hua Hin, petite ville en passe de devenir une grosse station balnéaire à 3 heures de bus de Bangkok. Je n'ai pas énormément de choses à vous dires à propos de cette ville, si ce n'est que le patron de la guest house "All Nations" est Anglais, et qu'il est fan de tennis. Nous avons regardé Roland Garros ensembles. Je suis resté 3 nuits a Hua Hin puis j'ai pris le bus pour Bangkok.
 
 Pout tout vous dire j'ai hésité à appeler cet article "Marchés a Bangkok", ou "Marcher à Bangkok". C'est donc tout logiquement que j'ai choisi un troisième titre.
 
