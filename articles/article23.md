@@ -1,0 +1,18 @@
+# Arrivee a Jaipur
+## Posté le 2008-02-06 à 17:33:35
+
+<p>Que de choses a raconter...</p>
+
+<p>Premierement faisons un point sur ce petit debut de voyage, nous sommes donc partis de Delhi vers Agra en train, c est la que nous avons pu voir le Fort rouge et Taj Mahal, pas gigantesque, mais magnifique, en marbre blanc. Apres avoir passe deux jours a Agra nous voulions remonter un peu sur Mathura pour voir les ablussions dans le fleuve Yamuna tot le matin (les croyant descendent les gaths (escaliers en pierre tombant dans le fleuve) pour se baigner dans le fleuve et ainsi se purifier).</p>
+
+<p>La gare de bus ne nous donnant aucune confiance car il y a trop de personnes ici pretes a faire monter le touriste dans un mauvais bus pour qu il soit ensuite oblige de payer un hotel hors de prix ne sachant pas ou il est. Nous avons decide de prendre le train, en general class (la plus basse des six classes possibles ici, cela se traduit par un entassement de personnes dans un seul wagon, aucune assurence qu il y aura assez de place, certains sont assis dans le compartiment bagages au dessus des tetes (je precise que le compartyiment bagages n est pas plus grand que dans un train francais en seconde classe, sauf que c est du grillage).</p>
+
+<p>Malheureusement nous n etions pas a la bonne saison et seuls les gens de Mathura se baignaient, loins des centaines des centaines de personnes que nous nous attendions a voir. Par contre nous avons vu des singes, des singes de partout, surtout tot le matin. En Inde les singes sont quasiment comme les pigeons a Paris, seulement les Indiens respectent tous les animaux car ils croient en la reincarnation, ne voulant pas tuer un ancetre potentiel, ils se contentent de les repousser quand ils le peuvent.</p>
+
+<p>Mais Mathura est aussi connu pour etre la ville de naissence Krishna, principale incarnation Vishnu et qui est tres venere par les indous (c est de la que vient la secte hare krishna). Il y avait donc un grand nombre de temples dans cette ville, ainsi qu une atmosphere religieuse tres pesante, nous ne nous sentions pas a notre place c est pourquoi nous n y avons passe qu une nuit.</p>
+
+<p>Le landemain donc, Objectif etre a Jaipur le soir, il y avait 300Km a parcourir avec escale a Agra. Retour a agra en gen class, puis nous voulions tenter le bus pour Jaipur (l astuce est que ce bus la ne part pas de la gare routiere, nous avions donc plus confiance). Je passe quelques coups de fil a Jaipur pour savoir ou dormir, tout est plein, plus le temps, tant pis on part on verra la bas. Seulement les transports ici, on sait quand ca part mais... on sait pas vraiment quand ca arrive, tant mieux on verra bien, si les horaires sont respectes on doit arriver a 22h.</p>
+
+<p>Et la, coup de bol, d une les horaires sont respectes, et de deux sur la fin du trajet un des passagers nous avait entendu parler francais, il vient nous parler dans cette langue, on lui dit qu on ne sait pas ou on va en sortant du bus, qu on ne sait pas ou s arrete le bus, "vous voyagez en routard, c est bien". Il nous indique ou aller pour dormir pour pas cher, a deux pas, meme pas besoin de prendre un took took (rickshaw, taxi a trois roues comme sur une des photos d un post precedent).</p>
+
+<p>Aujourd hui nous avons passe la journee tranquillement dans la ville en se baladant dans les bazaars, qui sont leurs marches ou l ont peu trouver de tout, des pneus a cote d une bijouterie, d une magasin d etoffes ou d un vendeur de legumes. Ensuite farniente dans un parc public puis nous voici devant une connection internet des plus lentes qu il puisse etre. nous ne pouvons pas vous mettre de photos aujourd hui mais promis, pour la prochaine fois.</p>
