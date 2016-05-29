@@ -48,7 +48,7 @@ continent.
 
 Pisco, ville touchee par un seisme deux ans plus tot, tout est en reconstruction, on sent vraiment la pauvrete ici. Le
 
-Lonely Planet me dit de me mefier, l'hotel me dit de sortir sans sac, de cacher mon appareil photo et de laisser mon
+Lonely Planet me dit de me mefier, l'hôtel me dit de sortir sans sac, de cacher mon appareil photo et de laisser mon
 
 passeport dans le coffre fort de la chambre (pourtant j'avais pris une chambre sans option, le coffre est de serie, ca
 
@@ -178,6 +178,6 @@ contre un nouveau billet, dommage..
 
 Voila, c'est la fin du recit pour aujourd'hui. Je suis actuellement a Arequipa avec Didier, dans le sud du Perou et nous partons cette nuit prendre un bus direction l'un des cañons les plus profinds du monde. Je prendrais ensuite la route direction la Bolivie et le Salaar de Uyuni, en passant sans doute pas le Chili un ou deux jours. Le programme ensuite sera sans doute une remontee de la Bolivie par Sucre, Santa Cruz et La Paz, puis le lac Titicaca et le Machu Pichu, pres de Cuzco.
 
-Je vous dit a tous a tres bientot, et merci pour tous ces commentaires, c'est toujours tres agreable a lire.
+Je vous dit a tous a tres bientôt, et merci pour tous ces commentaires, c'est toujours tres agreable a lire.
 
 Muchas Besos, Etienne

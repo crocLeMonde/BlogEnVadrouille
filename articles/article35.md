@@ -1,32 +1,36 @@
-# La java bleue
+# La Java bleue
 ## Posté le 2008-04-23 à 10:38:19
 
-Comme vous l'avez (surement) (pas) remarque en lisant le titre de cet article, je viens de traverser la mer de Java, la java bleue quoi (oui ben c'est bon... apres 4 jours de mer vous auriez aussi un humour minable...).
+Comme vous l'avez (sûrement) (pas) remarqué en lisant le titre de cet article, je viens de traverser la mer de Java, la java bleue quoi (oui ben c'est bon... après 4 jours de mer vous auriez aussi un humour minable...).
 
-C'est avec amertume que je vous ecris ces lignes, en effet j'entrais tranquillement dans le cyber cafe ou je suis avec la ferme intention de vous faire partager mes toutes dernieres videos de navigation, quand j'ai remarque que le debit internet ici ne me permettrait jamais de vous faire voir ces magnifiques moment. Premier essai... rien. Deuxieme essai... rien.
+C'est avec amertume que je vous écris ces lignes, en effet j'entrais tranquillement dans le cyber café où je suis avec la ferme intention de vous faire partager mes toutes dernières videos de navigation, quand j'ai remarqué que le débit internet ici ne me permettrait jamais de vous faire voir ces magnifiques moment. Premier essai... rien. Deuxième essai... rien.
 
-Laissez moi quand meme vous conter mes derniers jours, j'ajouterais les videos a ce texte quand je serais a Singapour.
+Laissez moi quand meme vous conter mes derniers jours, j'ajouterais les videos à ce texte quand je serai à Singapour.
 
-C'est le depart, tout le monde sur le pont !!! Nous avons fait des courses, remplis les reservoirs d'eau, de fuel, tout l'avitaillement necessaire a notre traversee pour Borneo depuis Bali.
+C'est le départ, tout le monde sur le pont !!! Nous avons fait des courses, remplis les réservoirs d'eau, de fuel, tout l'avitaillement nécessaire à notre traversée pour Bornéo depuis Bali.
 
-Ca y est, c'est parti... ca fait quelque chose de quitter cette jolie ile, est ses habitants tous plus gentils les uns que les autres. Direction Seraya, pointe nord-est de l'ile pour laisser Sales qui aura fait un petit bout de route avec nous, puis direction Madura, une ile un peu au nord de Java, voici les premieres 24h passees en navigation, la premiere nuit, les premiers quarts. Nous jetons l'encre, a l'abris de l'ile pour la deuxieme nuit, puis repartons de bonheur le lendemain (enfin de bonheur, 8h du mat' quoi, c'est pas de notre faute on a pas entendu le coq, on etait trop loin de la terre). C'est parti pour 2 jours et demi de navigation a la voile... puis au moteur, par manque de vent (c'est pas le tout mais on est pas en vacances, on a des horaires a tenir... quoi ? non ? ah bon !).
+Ca y est, c'est parti... ça fait quelque chose de quitter cette jolie île, est ses habitants tous plus gentils les uns que les autres. Direction Seraya, pointe Nord-Est de l'île pour laisser Sales qui aura fait un petit bout de route avec nous, puis direction Madura, une île un peu au Nord de Java, voici les premières 24h passées en navigation, la première nuit, les premiers quarts. Nous jetons l'encre, à l'abris de l'île pour la deuxième nuit, puis repartons de bonne heure le lendemain (enfin de bonne heure, 8h du mat' quoi, c'est pas de notre faute on a pas entendu le coq, on était trop loin de la terre). C'est parti pour 2 jours et demi de navigation à la voile... puis au moteur, par manque de vent (c'est pas le tout mais on est pas en vacances, on a des horaires à tenir... quoi ? non ? ah bon !).
 
-Navigation... Navigation... Ah, tient, un barracuda vient de mordre a notre ligne de traine... miam... ca fera le repas de soir. Navigation... Navigation... 
+Navigation... Navigation... Ah, tient, un barracuda vient de mordre à notre ligne de traîne... miam... ça fera le repas de ce soir. Navigation... Navigation...
 
-100h de navigation, Borneo est en vue... enfin serait en vue si il n'y avait ce temps gris qui vient de tomber il y a 2h... et le vent qui monte... il se stabilise a 20 noeuds... parfait. Allez pour les 100h on a fait un petite video, 3 videos en fait, mais vous allez devoir patienter que je soit a Singapour pour vous les envoyer, je vous promet que ca vaut le coup d'attendre. Vous y decouvrirez entre autre l'interieur du bateau dans lequel nous vivons.
+100h de navigation, Bornéo est en vue... enfin serait en vue si il n'y avait ce temps gris qui vient de tomber il y a 2h... et le vent qui monte... il se stabilise à 20 noeuds... parfait. Allez pour les 100h on a fait un petite video, 3 videos en fait, mais vous allez devoir patienter que je soit à Singapour pour vous les envoyer, je vous promet que ca vaut le coup d'attendre. Vous y decouvrirez entre autre l'intérieur du bateau dans lequel nous vivons.
 
-Arrives a Borneo avant hier, nous posons un pied a terre, plage sympa, on cherche les pirates, on trouve pas, decus...
+Arrivés à Bornéo avant hier, nous posons un pied à terre, plage sympa, on cherche les pirates, on trouve pas, deçus...
 
-Notre but maintenant est de refaire le plein de petrol pour le bateau, puis de visiter le coin. Il parait que Borneo est un des derniers endroits au monde ou il existe des orang outan en liberte, on va pas manquer l'occasion d'aller leur serrer la pince, d'ailleur c'est prevu pour demain. Je vous donnerais des nouvelles, bien sur !
+Notre but maintenant est de refaire le plein de pétrol pour le bateau, puis de visiter le coin. Il parait que Bornéo est un des derniers endroits au monde où il existe des Orang Outan en liberté, on va pas manquer l'occasion d'aller leur serrer la pince, d'ailleurs c'est prévu pour demain. Je vous donnerai des nouvelles, bien sûr !
 
-Dans l'attente de pouvoir t'envoyer mes videos, je te dis, cher lectrice, cher lecteur, a bientot.
+Dans l'attente de pouvoir t'envoyer mes videos, je te dis, cher lectrice, cher lecteur, à bientôt.
 
 Etienne.
 
 Voici enfin les videos promises
 Nous commencons par le trajet entre Bali et Borneo
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5bijw&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5bijw&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5bjba&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5bjba&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+
 Puis le trajet entre Borneo et Singapour
+
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x59cll&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x59cll&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x59o81&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x59o81&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>

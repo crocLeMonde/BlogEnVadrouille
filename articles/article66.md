@@ -3,7 +3,7 @@
 
 La suite du voyage se passe donc en tendem jusqu`au Vietnam, et nous l`ecrivons donc a deux.
 
-Apres une premiere prise en main des scooters pour Florian, nous partons vers le sud a la decouverte des plage de Nusa Dua, lieu privilegie pour les hotels de luxe,le surf et la nature :
+Apres une premiere prise en main des scooters pour Florian, nous partons vers le sud a la decouverte des plage de Nusa Dua, lieu privilegie pour les hôtels de luxe,le surf et la nature :
 
 <img src="http://etienne.croclemonde.org/public/indonesie/DSC_0011.jpg" width="640" />
 
@@ -58,7 +58,7 @@ Et la, on en prend plein les yeux..
 
 <img src="http://etienne.croclemonde.org/public/indonesie/DSC_0253.jpg" width="640" />
 
-C`est bientot l`heure du depart. Sales tient a nous faire une recette typiquement balinaise, a base de poulet farci d`herbes aussi diverses que variees dont seul lui a le secret: LE chicken tutu.
+C`est bientôt l`heure du depart. Sales tient a nous faire une recette typiquement balinaise, a base de poulet farci d`herbes aussi diverses que variees dont seul lui a le secret: LE chicken tutu.
 
 Mais avant la degustation, il nous faut aller chercher les ingredients au marche, en commencant par le poulet... bien frais !
 

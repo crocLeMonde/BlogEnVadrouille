@@ -35,4 +35,4 @@ Et devinez qui j ai croise.. Les petits lutins du pere noel. Eh bien j un scoop 
 
 <img src="http://etienne.croclemonde.org/public/Philippines/DSCF2308.jpg" />
 
-A bientot pour la suite a Bali ou je suis actuellement.. Toujours aussi belle ile, mais de plus en plus de touriste au sud.. au secours fuyons au nord.. Florian m a rejoind hier, je suis alle le chercher a l aeroport puis je lui ai montre les environs tout en precisant que le sud n est pas le vrai Bali. Puis repos pour encaisser le decallage horaire.
+A bientôt pour la suite a Bali ou je suis actuellement.. Toujours aussi belle ile, mais de plus en plus de touriste au sud.. au secours fuyons au nord.. Florian m a rejoind hier, je suis alle le chercher a l aeroport puis je lui ai montre les environs tout en precisant que le sud n est pas le vrai Bali. Puis repos pour encaisser le decallage horaire.

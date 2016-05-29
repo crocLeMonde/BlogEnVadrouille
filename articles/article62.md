@@ -9,4 +9,4 @@ Voici une carte pour situer tout ca, pour l'heure je suis a Manille mais je n'ai
 
 <img src="http://etienne.croclemonde.org/public/Philippines/trip.png" alt="" width="640" />
 
-Ah oui j'oubliais, vous venez sur ce blog a vos risques et perils, je ne pourrais etre tenu pour responsable d'une quelconque envie de voyage meme si la propagation de ce virus est grandement encouragee par la maison. Maintenant que c'est dit, a bientot :)
+Ah oui j'oubliais, vous venez sur ce blog a vos risques et perils, je ne pourrais etre tenu pour responsable d'une quelconque envie de voyage meme si la propagation de ce virus est grandement encouragee par la maison. Maintenant que c'est dit, a bientôt :)

@@ -29,7 +29,7 @@ En discutant dans le bus, je m'apercoie qu'il va jusque la frontiere argentine, 
 
 Ce dernier trajet de 3h a ete marque par deux arrets par les flics locaux pour controle anti narcotiques. Le premier se solde par une montee des flics dans le bus, une bref regard et une discussion avec le chauffeur et tout est regle, nous embrquerons 5 passagers a l'oeuil mais le controle n'aura pas lieu. Le deuxieme est plus serieux. Tout le monde doit descendre, on recupere chacun nos sac dans la soute et on se met en file, une pour les hommes et une pour les femmes avec au bout un flic qui fouille les sacs et les personnes. Je ne tient qu'a peine debout, j'ai du mal a deplacer mon sac, je me dit qu'il vont me prendre pour un gros toxico. A ce moment un nouveau flic arrive, il voit ma tete de cachet d'aspirine et me prend a part, je me dit "meeerde, c'est parti pour les emmerdes", meme si j'ai rien a me reprocher. On va dans leur maisonnettes, je pose mon sac sur la table et vait pour l'ouvrir, il m'arrete direct, me demande mon passport, y jette a peine un oeuil et me dit que c'est bon, je peux sortir et passer a traver le control. C'est donc officiel, en Argentine on peut etre trafiquant de drogue, du moment qu'on a un passeport de gringo, les emmerdes sont evitees.
 
-J'arrive enfin a Humahuaca, province de Jujuy (prononcez coucouille..) ou je trouve un petit hotel tenu par Hector qui fera tout pour que je me sente bien et me requinque. Un grand merci a Hector.
+J'arrive enfin a Humahuaca, province de Jujuy (prononcez coucouille..) ou je trouve un petit hôtel tenu par Hector qui fera tout pour que je me sente bien et me requinque. Un grand merci a Hector.
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1257388208hISG.jpg" />
 
@@ -41,7 +41,7 @@ Une rue de la ville le soir
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1257387531xqvF.jpg" />
 
-Apres deux jour a ma remettre debout, et apres avoir mange un excellent steak argentin, je repars de Humahuaca pour refaire la route vers Tupiza et partir vers le Salaar de Uyuni. J'arrive le soir a Tupiza, et tous les tours partant le lendemain sont plein, dans toutes les agences ou je vais. Qu'a cela ne tienne, je trouve deux anglais qui sont dans le meme cas que moi, puis nous allons voir les agences en leur disant que nous sommes 3, que ca vaut le coup de creer un nouveau groupe rien que pour nous. C'est donc bon pour le landemain matin, 9h30 pour un tour de deux jours dans le Salaar, avec une nuit dans un hotel de sel.
+Apres deux jour a ma remettre debout, et apres avoir mange un excellent steak argentin, je repars de Humahuaca pour refaire la route vers Tupiza et partir vers le Salaar de Uyuni. J'arrive le soir a Tupiza, et tous les tours partant le lendemain sont plein, dans toutes les agences ou je vais. Qu'a cela ne tienne, je trouve deux anglais qui sont dans le meme cas que moi, puis nous allons voir les agences en leur disant que nous sommes 3, que ca vaut le coup de creer un nouveau groupe rien que pour nous. C'est donc bon pour le landemain matin, 9h30 pour un tour de deux jours dans le Salaar, avec une nuit dans un hôtel de sel.
 
 Le trajet entre Tupiza et le Salaar est des plus grandioses, nous sommes en plein dans la pampa bolivienne, nous croisons cactus et lama de partout (pour ca je commence a avoir l'habitude), mais surtout des formations rocheuses bien jolies
 
@@ -53,7 +53,7 @@ Le trajet entre Tupiza et le Salaar est des plus grandioses, nous sommes en plei
 
 Le Salaar, que dire, 12.000 metres carres d'etendue de sel, plat a perte de vue, pleins de petits octogones formes je ne sais comment, c'est tout simplement magnifique.
 
-L'hotel de sel
+L'hôtel de sel
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/12573872732dVv.jpg" />
 
@@ -79,6 +79,6 @@ Puis c'est finit pour le Salaar, le guide me laisse a Uyuni et renmene les deux 
 
 Bon, ben moi je vais faire une petit tour dans la ville, Oruro est principalement connue pour son carnaval annuel, mais bon comme c'est pas maintenant ca me fait une belle jambe.. il faudra revenir. Un peu plus tard je prend un bus pour Cochabamba, plus a l'ouest, moins arride. Cochabamba sera le debut de l'article suivant. Je vous laisse donc ici. Mes plans pour la fin de mon voyage sont assez simples. Je pense repasser par La Paz pour acheter quelques trucs, puis aller a Cusco, au Perou pour gravir le Machu Pichu et voir ses ruines Inca. Alors sonnera la fin du voyage, je rentrerai a Lima un ou deux jours en avance par rapport a mon avion pour parer tout retard de bus.
 
-A tres bientot, et continuez de me lire assiduement jusque la fin, je vous promet un article avec pleins de photos une fois rentre en France.
+A tres bientôt, et continuez de me lire assiduement jusque la fin, je vous promet un article avec pleins de photos une fois rentre en France.
 
 Hasta la proxima..
