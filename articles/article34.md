@@ -20,8 +20,11 @@ Le premier jour je suis allé dans un coin de surfers, en dessous de Tabanan, ce
 Le lendemain, remontée sur Singaraja à travers de magnifiques rizières, c'est un coup à avoir un accident tellement je tournais la tete pour voir les superbes paysages qui défilaient.
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1208257309URc4.jpg" width="640" />
+
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1208257304SP22.jpg" width="640" />
+
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1208257308isJF.jpg" width="640" />
+
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1208257307G9b6.jpg" width="640" />
 
 Quand j'ai pris cette photo, il y avait un bruit au loin, j'ai mis du temps à comprendre qu'il s'agissait d'un homme, dans la cabane du bas, qui me faisait signe, et qui faisait du bruit pour que je le remarque. Un signe de ma part et il s'en est retourné dans sa cabane, il a du penser qu'il serait sur la photos. Les gens ici sont aussi tellement gentils que l'on a vraiment envie de leur faire plaisir.
@@ -44,4 +47,4 @@ C'est maintenant les opérations de remplissage des soutes, avec de l'eau, du ca
 
 Direction Madura, sur l'île de Java pour les jours à venir, puis Bornéo, plus au nord. Et de Bornéo nous mettrons le cap sur Singapour, où je dois arriver avant la fin de mon visa Indonésien (fin du mois d'avril).
 
-Voila, j'éspère que suivre mon voyage vous plaît toujours, je vous dis à très bientôt. 
+Voila, j'éspère que suivre mon voyage vous plaît toujours, je vous dis à très bientôt.

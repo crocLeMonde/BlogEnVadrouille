@@ -14,10 +14,13 @@ Petite précision : nous n'écrirons pas tous les jours comme ça, car à la vit
 A bientôt.
 
 Une petite photo de l'interieur de l'hôtel
+
 <img src="http://dud.didoum.free.fr/upload/min/hôtel.jpg" />
 
 Une boutique de main bazar
+
 <img src="http://dud.didoum.free.fr/upload/min/magasin.jpg" />
 
-l'artère de main bazar, vue de devant l'hôtel
+L'artère de main bazar, vue de devant l'hôtel
+
 <img src="http://dud.didoum.free.fr/upload/min/rue.jpg" />

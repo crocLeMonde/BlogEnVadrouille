@@ -9,5 +9,4 @@ Le soir pour venir à Pushkar nous avons comme à notre habitude pris le bus. En
 
 Aujourd'hui aussi, du coup, nous en avons profité juste en marchant, en faisant quelques emplettes et en profitant de la terrasse de l'hôtel. J'ai eu la chance, mais aussi l'audace de rentrer dans un temple, d'offrir des fleurs à Krishna et de lui faire une offrande de fleurs dans l'eau du lac. C'est une expérience qui je crois m'a beaucoup marquée, surtout moi qui suis si émotive, j'ai été tres touchée.  Maintenant que la nuit est tombée, nous avons profité de cette ambiance si différente pour faire un saut jusqu'ici vous donner des nouvelles et vous montrer quelques photos.
 
-
 <img src="http://dud.didoum.free.fr/upload/min/pushkar.jpg" width=640" />

@@ -38,4 +38,5 @@ Je vous laisse sur deux photos de la ville en elle même.
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1211016874hbIL.jpg" alt="" width="640" />
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1211017229ryCi.jpg" alt="" width="640" />
- * Le bob autour du monde, kesako ? A l'UTBM il y a eu un message de passé incitant toutes les personnes voyageant autour du monde à emporter un bob AE (Association des Etudiants) et à le prendre en photos devant les grands endroits connus où l'on pourrait aller. 
+
+ * Le bob autour du monde, kesako ? A l'UTBM il y a eu un message de passé incitant toutes les personnes voyageant autour du monde à emporter un bob AE (Association des Etudiants) et à le prendre en photos devant les grands endroits connus où l'on pourrait aller.

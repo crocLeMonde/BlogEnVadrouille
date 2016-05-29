@@ -10,10 +10,13 @@ Après ça on a essayé de se renseigner sur les trains pour commencer notre tou
 En tout cas niveau repas c’est excellent, et piquant... le respect de l’hygiène est assez folklorique... mais on est pas là pour ça.
 
 Une vue du haut de l’hôtel
+
 <img src="http://dud.didoum.free.fr/upload/min/toithôtel.jpg" />
 
 Notre premier rickshaw
+
 <img src="http://dud.didoum.free.fr/upload/min/ricksaw.jpg" />
 
 Le parc au milieu de Connaught Place
+
 <img src="http://dud.didoum.free.fr/upload/min/connaughtplace.jpg" />

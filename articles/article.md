@@ -1,5 +1,4 @@
 # Début du voyage## Posté le 2008-01-29 à 01:08:09J-1Bienvenue sur ce blog, il va nous permettre de vous donner des nouvelles de notre voyage en Inde qui débute mercredi matin, le 30 janvier donc.Ca y est les sacs sont faits, sac de couchage, passeport et bonnes chaussures, en tout c'est 27Kg que nous allons transporter à deux durant un mois. Notre but ? Aller voir les gens en dehors des circuits touristiques, nous déplacer en stop, en bus ou en train, voir en moto si nous arrivons à en avoir une.Atterrissage à New Delhi jeudi prochain un peu après minuit, et c'est parti en vadrouille dans le Rajasthan, dans le nord-ouest de l'Inde à coté du Pakistan.N'hésitez pas à revenir régulièrement sur ce blog, il sera quasiment notre seul moyen de donner de nos nouvelles et nous essaierons de le compléter le plus souvent possible.A bientôt ici même.Cécile et Etienne.
-
 # On a nos exams!!
 ## Posté le 2008-01-30 à 08:42:06
 
@@ -7,7 +6,6 @@ Et oui bon début de journée : première bonne nouvelle avant le départ à l'a
 
 Nous sommes maintenant en attente d'embarquement et le vol est à l'heure en plus
 TODO : Ajouter du contexte
-
 # Arrivée en Inde
 ## Posté le 2008-01-31 à 15:02:57
 
@@ -24,14 +22,16 @@ Petite précision : nous n'écrirons pas tous les jours comme ça, car à la vit
 A bientôt.
 
 Une petite photo de l'interieur de l'hôtel
+
 <img src="http://dud.didoum.free.fr/upload/min/hôtel.jpg" />
 
 Une boutique de main bazar
+
 <img src="http://dud.didoum.free.fr/upload/min/magasin.jpg" />
 
-l'artère de main bazar, vue de devant l'hôtel
-<img src="http://dud.didoum.free.fr/upload/min/rue.jpg" />
+L'artère de main bazar, vue de devant l'hôtel
 
+<img src="http://dud.didoum.free.fr/upload/min/rue.jpg" />
 # Des indiens dans la ville
 ## Posté le 2008-02-01 à 09:06:17
 
@@ -44,14 +44,16 @@ Après ça on a essayé de se renseigner sur les trains pour commencer notre tou
 En tout cas niveau repas c’est excellent, et piquant... le respect de l’hygiène est assez folklorique... mais on est pas là pour ça.
 
 Une vue du haut de l’hôtel
+
 <img src="http://dud.didoum.free.fr/upload/min/toithôtel.jpg" />
 
 Notre premier rickshaw
+
 <img src="http://dud.didoum.free.fr/upload/min/ricksaw.jpg" />
 
 Le parc au milieu de Connaught Place
-<img src="http://dud.didoum.free.fr/upload/min/connaughtplace.jpg" />
 
+<img src="http://dud.didoum.free.fr/upload/min/connaughtplace.jpg" />
 # Five fingers, not the same
 ## Posté le 2008-02-03 à 17:12:08
 
@@ -72,7 +74,6 @@ Demain est un autre jour, et il s'annonce tout aussi beau...
 Vous n'avez pas le son, l'ambiance, les gens... Alors profitez bien des images !
 
 To Vipin : We will always keep in mind this point of view : "Five fingers, not the same". Daniwad.
-
 # Arrivee a Jaipur
 ## Posté le 2008-02-06 à 17:33:35
 
@@ -91,7 +92,6 @@ Le lendemain donc, objectif être à Jaipur le soir, il y avait 300Km à parcour
 Et la, coup de bol, d'une les horaires sont respectés, et de deux sur la fin du trajet un des passagers nous avait entendu parler francais, il vient nous parler dans cette langue, on lui dit qu'on ne sait pas où on va en sortant du bus, qu'on ne sait pas où s'arrête le bus, "vous voyagez en routard, c'est bien". Il nous indique où aller pour dormir pour pas cher, à deux pas, même pas besoin de prendre un tuk tuk (rickshaw, taxi à trois roues comme sur une des photos d'un post précédent).
 
 Aujourd hui nous avons passé la journée tranquillement dans la ville en se baladant dans les bazaars, qui sont leurs marchés où l'ont peu trouver de tout, des pneus à côté d'une bijouterie, d'un magasin d'étoffes ou d'un vendeur de légumes. Ensuite farniente dans un parc public puis nous voici devant une connection internet des plus lentes qu'il puisse être. nous ne pouvons pas vous mettre de photos aujourd'hui mais promis, pour la prochaine fois.
-
 # La vie en Inde...
 ## Posté le 2008-02-08 à 19:11:28
 
@@ -104,7 +104,6 @@ La nourriture, c'est aussi quelque chose. Très bon, mais très épicé. On a pa
 <img src="http://dud.didoum.free.fr/upload/min/singe.jpg" />
 
 Allez les gens, à la prochaine
-
 # Journees zen
 ## Posté le 2008-02-11 à 17:40:31
 
@@ -117,14 +116,12 @@ Le soir pour venir à Pushkar nous avons comme à notre habitude pris le bus. En
 Aujourd'hui aussi, du coup, nous en avons profité juste en marchant, en faisant quelques emplettes et en profitant de la terrasse de l'hôtel. J'ai eu la chance, mais aussi l'audace de rentrer dans un temple, d'offrir des fleurs à Krishna et de lui faire une offrande de fleurs dans l'eau du lac. C'est une expérience qui je crois m'a beaucoup marquée, surtout moi qui suis si émotive, j'ai été tres touchée.  Maintenant que la nuit est tombée, nous avons profité de cette ambiance si différente pour faire un saut jusqu'ici vous donner des nouvelles et vous montrer quelques photos.
 
 <img src="http://dud.didoum.free.fr/upload/min/pushkar.jpg" width=640" />
-
 # Descente vers Udaipur
 ## Posté le 2008-02-13 à 10:28:03
 
 Heu... on vient de passer plusieurs jours à se dorer la pillule sur le toit de l'hôtel et se balader. Que dire de plus sinon que tout va pour le mieux! On devrait entamer ce soir notre descente en bus vers Udaipur, soit 10 heures de trajet. On éspère avoir des couchettes, sinon on fera comme d'hab, c'est à dire on changera nos plans au dernier moment (oui oui vous avez bien lu, un bus avec couchettes).
 
 On éspère que pour vous tous tout se passe bien. Namasté.
-
 # Octopussy
 ## Posté le 2008-02-16 à 11:00:42
 
@@ -147,7 +144,6 @@ Et pour finir cet article, voici un magnifique coucher de soleil sur le lac.
 <img src="http://dud.didoum.free.fr/upload/min/soleil.jpg" alt="" width="600" height="450" />
 
 A bientôt...
-
 # Il commence a faire chaud
 ## Posté le 2008-02-18 à 10:23:54
 
@@ -159,56 +155,72 @@ Aujourd'hui, je vais vous livrer un petit secret : nos 3 phrases préférées du
 Et au dela de ces impressions générales qui se confirment de jour en jour, nous continuons notre périple. Nous avons quitté notre hôtel ce matin à 5h, puis 3 grosses heures de bus pour arriver à Ranakpur. Là se trouve un des plus importants temples Jain de l'Inde, plus trois autres plus petits. Le gros comprends 29 pièces, et pas moins de 1444 colonnes de marbres sculptées (oui ils sont fous, on vous avait bien dit hein!). Les temples sont encastrés entre les montagnes, toutes recouvertes de verdure. On a même le plaisir de nourir les singes qui viennent calmement prendre des morceaux de gâteaux qu'on leur tend. Encore une halte fort agréable. Le soir, 4h30 de bus pour rejoindre Jodhpur où nous sommes actuellement. Ca semble promettre des moments sympa, surtout que nous allons y rester 5 ou 6 jours, jusqu'au moment de rentrer à Delhi pour faire des achats et prendre l'avion de retour. Et oui, on va être obligés de rentrer au bout d'un moment! En tout cas, on ne pense pas encore vraiment à ça et on profite à fond de chaque petit moment, de tout ce qui peut nous émerveiller : un oiseau vert et orange, des femmes rentrant des champs portant des fagots sur leur tête, des maisons de toutes les couleurs, les femmes qui lavent le linge sur les ghats... Nous passons tellement de moments intenses et indescriptibles! Le City Palace d'Udaipur qui s'illumine le soir, un spectacle de danse rajasthanie , la rencontre d'Indiens, mais aussi d'autres touristes, Européens, Américains ou encore Francais. On comprend de mieux en mieux l'anglais des Indiens et on relance les conversations. Nous croisons beaucoup de gens, mais brièvement. Nous nous fondons aussi de mieux en mieux dans le paysage, portant des habits plus "cool" et connaissant maintenant les combines des marchands. On ne prévoit plus ce qu'on fait, mais seulement on vit le moment à fond. Car l'Inde est un pays qui ne se raconte pas, mais qui se vit. Les photos sont peut-être jolies et les textes vous plaisent, mais tout ça n'est rien du tout par rapport à la réalité que nous vivons avec un grand plaisir chaque jour, chaque minute. Souvent les mots manquent pour exprimer ce que l'on ressent. On se contente alors d'un silence, d'un regard entre nous et d'un large sourire tout au fond du coeur. On ne réinventera pas les mots, nul besoin, car on sait très bien au fond de nous l'effet que ça produit, la trace que ça laissera, et c'est bien le principal.
 
 Des femmes en sari coloré
+
 <img src="http://dud.didoum.free.fr/upload/min/sari.jpg" width="639"/>
 
 Un groupe d'enfants en sortie scolaire
+
 <img src="http://dud.didoum.free.fr/upload/min/scolaire.jpg" width="639"/>
 
 Une icône peinte sur un rocher
+
 <img src="http://dud.didoum.free.fr/upload/min/bonhommerouge.jpg" width="639" />
 
 Un éléphant dans une rue d'Udaipur
+
 <img src="http://dud.didoum.free.fr/upload/min/elephant.jpg" width="639" />
 
 Des femmes lavant le linge sur les gaths
+
 <img src="http://dud.didoum.free.fr/upload/min/linge.jpg" width="639" />
 
 Le linge qui sèche
+
 <img src="http://dud.didoum.free.fr/upload/min/seche.jpg" width="639" />
 
 Le City Palace d'Udaipur vu depuis le lac
+
 <img src="http://dud.didoum.free.fr/upload/min/palacelac.jpg" width="639" />
 
 Une autre vue du City Palace
+
 <img src="http://dud.didoum.free.fr/upload/min/citylac2.jpg" width="639" />
 
 Une salle du City Palace
+
 <img src="http://dud.didoum.free.fr/upload/min/citysalle.jpg" width="639" />
 
 Une cour intérieure
+
 <img src="http://dud.didoum.free.fr/upload/min/citycours.jpg" width="639" />
 
 La ville d'Udaipur
+
 <img src="http://dud.didoum.free.fr/upload/min/udaipur.jpg" width="639" />
 
 Une belle vue depuis une île du lac Pichola
+
 <img src="http://dud.didoum.free.fr/upload/min/picchola.jpg" width="639" />
 
 Un immense temple Jain de Ranakpur
+
 <img src="http://dud.didoum.free.fr/upload/min/ranak.jpg" width="639" />
 
 Le détail d'un temple
+
 <img src="http://dud.didoum.free.fr/upload/min/ranak2.jpg" width="639" />
 
 Etienne nourissant les singes
+
 <img src="http://dud.didoum.free.fr/upload/min/ranak3.jpg" width="639" />
 
 La vue depuis la terrasse de notre guest house de Jodhpur
+
 <img src="http://dud.didoum.free.fr/upload/min/ranak4.jpg" width="639" />
 
 Allez, parce que vous êtes sages, vous avez le droit à une video bonus
-<div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x4fiei&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x4fiei&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
 
+<div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x4fiei&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x4fiei&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
 # Sniff
 ## Posté le 2008-02-25 à 15:54:11
 
@@ -221,7 +233,6 @@ Merci beaucoup à tous, ceux qui laissent des commentaires mais aussi ceux qui n
 A bientôt pour un article récapitulatif de conseils de voyages pour l'Inde.
 
 Cecile et Etienne
-
 # Fiche de l'Indonésie
 ## Posté le 2008-03-30 à 17:08:00
 
@@ -298,7 +309,6 @@ Ujung Pandang est la capitale de la province de Sulawesi Selantan au sud-est de 
 #### Yogyakarta
 
 La ville est située au centre de l'île de Java, au pied du volcan Merapi. Elle compte un peu plus de 500 000 habitants. Yogyakarta était aux 16ème et 17ème siècle le siège du puissant empire javanais de Mataram. Yogyakarta est née en 1755 après la division de Mataram en deux sultanats, celui de Yogyakarta et celui de Surakarta. Elle était possession néerlandaise avant la Seconde guerre mondiale. A la suite de la proclamation d'indépendance en 1945, le sultanat fut intégré à la République indonésienne et Yogyakarta en devint la capitale jusqu'en 1950 (date à laquelle elle fut remplacée par Jakarta). La ville est située au coeur d'une région fertile produisant canne à sucre, riz et tabac. Alliant le dynamisme de la jeunesse d'une ville universitaire et la tradition vivante d'une capitale de la culture javanaise, complexe et raffinée, elle est devenue une destination touristique majeure permettant d'accéder notamment au temple bouddhiste de Borobudur (8ème siècle).
-
 # C'est bientôt reparti
 ## Posté le 2008-03-26 à 23:13:19
 
@@ -321,7 +331,6 @@ Une contrainte : être rentré pour mi juillet car je commencerai ensuite un sta
 Voila, je pars mardi 1er avril et d'ici la je termine quelques trucs et je fais mon sac.
 
 Au plaisir de lire vos commentaire durant ce voyage, j'essaierai de vous montrer de belles photos et faire de bons récits. A bientôt.
-
 # Arrivé sur Bali
 ## Posté le 2008-04-07 à 08:35:26
 
@@ -343,7 +352,6 @@ La capitale de l'île est Denpasar, ville qui grouille de partout, sans gros int
 Dans les jours qui suivent je vais louer un scooter pour faire un tour complet de l'île, essayer d'aller voir un pote de Patrick, Indonésien, plus au Nord dans l'île, monter sur le plus gros volcan, me perdre dans les rizières, enfin pas trop de plans a l'avance, il est très facile de se loger ici, les gens sont aussi sympa qu'en Inde, et bizarrement l'immense majorité des personnes que l'on voit ont entre 20 et 25 ans.
 
 A bientôt.
-
 # Round trip in Bali
 ## Posté le 2008-04-14 à 18:20:01
 
@@ -366,8 +374,11 @@ Le premier jour je suis allé dans un coin de surfers, en dessous de Tabanan, ce
 Le lendemain, remontée sur Singaraja à travers de magnifiques rizières, c'est un coup à avoir un accident tellement je tournais la tete pour voir les superbes paysages qui défilaient.
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1208257309URc4.jpg" width="640" />
+
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1208257304SP22.jpg" width="640" />
+
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1208257308isJF.jpg" width="640" />
+
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1208257307G9b6.jpg" width="640" />
 
 Quand j'ai pris cette photo, il y avait un bruit au loin, j'ai mis du temps à comprendre qu'il s'agissait d'un homme, dans la cabane du bas, qui me faisait signe, et qui faisait du bruit pour que je le remarque. Un signe de ma part et il s'en est retourné dans sa cabane, il a du penser qu'il serait sur la photos. Les gens ici sont aussi tellement gentils que l'on a vraiment envie de leur faire plaisir.
@@ -391,7 +402,6 @@ C'est maintenant les opérations de remplissage des soutes, avec de l'eau, du ca
 Direction Madura, sur l'île de Java pour les jours à venir, puis Bornéo, plus au nord. Et de Bornéo nous mettrons le cap sur Singapour, où je dois arriver avant la fin de mon visa Indonésien (fin du mois d'avril).
 
 Voila, j'éspère que suivre mon voyage vous plaît toujours, je vous dis à très bientôt.
-
 # La Java bleue
 ## Posté le 2008-04-23 à 10:38:19
 
@@ -417,18 +427,17 @@ Dans l'attente de pouvoir t'envoyer mes videos, je te dis, cher lectrice, cher l
 
 Etienne.
 
-Voici enfin les videos promises
-Nous commencons par le trajet entre Bali et Borneo
+Voici enfin les videos promises. Nous commencons par le trajet entre Bali et Borneo
+
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5bijw&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5bijw&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
 
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5bjba&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5bjba&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
 
-Puis le trajet entre Borneo et Singapour
+Puis le trajet entre Bornéo et Singapour
 
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x59cll&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x59cll&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
 
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x59o81&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x59o81&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
-
 # Borneo
 ## Posté le 2008-05-09 à 12:45:37
 
@@ -457,7 +466,6 @@ Nous avons assisté au repas de singes, en effet pendant la saison des fruit ils
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1210332100Imld.jpg" alt="" width="640" />
 
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5cnjc&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5cnjc&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
-
 # Fiche de Singapour
 ## Posté le 2008-05-09 à 12:54:50
 
@@ -496,7 +504,6 @@ Le climat est de type équatorial, chaud et humide toute l'année, avec une sais
 
 #### Singapour
 Dans une mosaïque cosmopolite de quartiers (Chinatown, Kampong Glam, Little India, Orchard Road...), le centre ville, qui concentre les édifices publics et les hautes tours des affaires, se situe au sud de l'île. Entièrement reconstruit suivant un plan très aéré, il est doté de nombreux espaces verts. Des villes nouvelles entièrement constituées de blocs construits par le "Housing Development Board" se sont créées dans les banlieues : Ang Mo Kio, Bedok, Tampines, Clementi, Jurong. L'aéroport international de Changi, l'un des plus performants au monde, se trouve à l'est, sur l'île principale.
-
 # Singapour, ville? pays?
 ## Posté le 2008-05-09 à 14:10:33
 
@@ -525,7 +532,6 @@ Je vous laisse sur une photo de la marina où nous sommes restés durant notre s
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1210345462qOEk.jpg" width="640" />
 
 A savoir : Le propriétaire d'un bateau ici est considéré comme étant obligatoirement riche, il n'existe donc pas de marina bon marché, le luxe est obligatoire (non je n'éxagere pas). Cela dit pour un "western" cela reste à la portée des bourses les plus légères, mais se voir proposer tout ce luxe est déconcertant à la fin, ça contraste avec nos journées en mer à prendre des douches à l'eau de mer, et uniquement se rincer à l'eau douce.
-
 # Fiche de la Malaisie
 ## Posté le 2008-05-17 à 11:08:39
 
@@ -565,7 +571,6 @@ Avec quelque 2 millions d'habitants - agglomération comprise - Kuala Lumpur con
 
 #### Autres villes
 Sur la péninsule : Georgetown, capitale de l'Etat du Penang. Ipoh, capitale de l'Etat de Perak. Johor Bahru, ville la plus méridionale et capitale de l'Etat du Johor.
-
 # Kuala Lumpur
 ## Posté le 2008-05-17 à 11:53:15
 
@@ -606,8 +611,8 @@ Je vous laisse sur deux photos de la ville en elle même.
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1211016874hbIL.jpg" alt="" width="640" />
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1211017229ryCi.jpg" alt="" width="640" />
- * Le bob autour du monde, kesako ? A l'UTBM il y a eu un message de passé incitant toutes les personnes voyageant autour du monde à emporter un bob AE (Association des Etudiants) et à le prendre en photos devant les grands endroits connus où l'on pourrait aller.
 
+ * Le bob autour du monde, kesako ? A l'UTBM il y a eu un message de passé incitant toutes les personnes voyageant autour du monde à emporter un bob AE (Association des Etudiants) et à le prendre en photos devant les grands endroits connus où l'on pourrait aller.
 # Langkawi
 ## Posté le 2008-05-17 à 12:17:17
 
@@ -644,7 +649,6 @@ PS : N'oubliez pas d'aller voir l'article sur Kuala Lumpur que je viens d'écrir
 PS2 : Vous remarquerez la présence maintenant d'un contrôle anti-spam qu'il est obligatoire de remplire si vous voulez laisser un commentaire, c'est triste de devoir mettre ça en place mais vu les #!$%&!! de messages qui arrivaient en masse ces derniers temps je n'ai pas le choix, en espérant que ça résolve le problème.
 
 TODO : Peut virer les PS
-
 # Fiche de la Thailande
 ## Posté le 2008-05-30 à 10:41:58
 
@@ -667,6 +671,7 @@ La région sud-est comprend les massifs de Dongrek et de Khao Khieu qui delimite
 
 Le sud, situe sur la presqu’ile de Malacca est borde a l’ouest par la Birmanie et la mer d’Andaman. Cette region, soumise a la mousson, est tres arrosee. A l’est on trouve le golfe de Thailande et au sud la Malaisie. Cette zone bien arrosee produit le riz, l’hevea, pratique la peche et dispose aussi de ressources minieres (zinc).
 
+
 ### Population
 
 80% des Thaïlandais sont des Thaïs, un ensemble de peuples originaires de la Chine occidentale. Les Chinois constituent la minorité la plus importante, environ 10% de la population. Parmi les autres minorités figurent les musulmans (1,5 million) d’origine malaise qui vivent dans le Sud, les "tribus" montagnardes du nord (Karens, Hmongs, Akhas, Lahus), les réfugiés Viêtnamiens et Cambodgiens (Khmers) et une importante population de travailleurs Birmans "clandestins" (environ 800.000).
@@ -688,6 +693,7 @@ Le climat de la Thailande est tropical et humide. On distingue trois saisons :
 - une saison plus fraîche (novembre - février).
 On note de grandes variations climatiques en fonction des regions. Dans l’ensemble l’amplitude thermique est faible en Thaïlande. Les températures moyennes mensuelles à Bangkok varient entre 31 et 35 degrés C sur l’année. Le degré hygrométrique varie de 45 a 85%.
 
+
 ### Villes principales
 
 #### Bangkok
@@ -698,7 +704,6 @@ Située à environ 720 km au nord de Bangkok et à 130 km de la frontière avec 
 
 #### Nakhon Ratchasima
 Située au Nord-Est du pays, à 256 km de Bangkok, sur le fleuve Moun, dans la partie méridionale du plateau de Khorat. La ville compte 204.000 habitants. C’est un centre industriel (matériel ferroviaire, agroalimentaire, tissages) et commercial mais également un centre universitaire et l’un des hauts lieux du bouddhisme.
-
 # Phuket
 ## Posté le 2008-05-30 à 14:58:25
 
@@ -745,7 +750,6 @@ Jeudi matin, mon sac est fait, je quitte Patrick et son bateau perché à 4 mèt
 Hua Hin please. Je paie, je monte dans le bus, il est 12h30, je n'ai aucune idée du temps de trajet. En premier on me dit 5h, puis 7, puis... j'arrive à 1h du matin apràs plus de 12 heures de trajet. Je marche un peu, refuse les désormais classiques taxi qui proposent des "cheap hôtel", et zou, je trouve une petite guest house pour dormir, la seule du coin à être ouverte 24h/24 à priori. Bon en même temps je stressais pas trop car Hua Hin est située le long de la mer, et si je ne trouvais rien je serais allé dormir sur la plage, il fait chaud ici y a pas de soucis.
 
 Voila, je crois que je vous ai donné un peu de lecture, à bientôt.
-
 # Bangkok
 ## Posté le 2008-06-12 à 14:00:11
 
@@ -762,6 +766,7 @@ La visite de la ville a commencé en prenant un bateau sur un des klongs, les kl
 <img src="http://imageshack-france.com/out.php/i124825_IMG1345.jpg" alt="" />
 
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5n17d&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5n17d&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+
 
 Puis je suis allé voir le Jim Thomson museum. Il s'agit d'un petit musée regroupant la collection d'art d'un certain Jim Thomson comme vous l'aurez compris. J'ai surtout apprécié ça pour l'architecture des petites maisons en bois, on ne s'attend pas à voir ça en pleins centre de Bangkok.
 
@@ -784,7 +789,6 @@ Un truc que j'adore maintenant, c'est visiter les marchés. Ici on voit tout, du
 <div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5r4b7&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5r4b7&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
 
 Je ne vous dis pas au revoir ici, j'attaque directement l'article suivant sur Kanchanaburi.
-
 # Kanchanaburi
 ## Posté le 2008-06-12 à 14:58:50
 
@@ -824,7 +828,6 @@ On essaie de voir avec un groupe de 4 personnes qui avaient loué un tuk tuk col
 Et apres Kanchanaburi me direz vous, c'est vrai que ca fait un bout de temps que vous n'aviez pas nouvelles. J'ai pris le bus pour Ayutaya, au nord de Bangkok, mon but était d'aller à Chiang Mai sans repasser par Bangkok. Je me suis donc arrêté une journée dans la petite ville d'Ayutaya, et y ai loué un velo pour me ballader. J'ai ensuite pris un bus pour Chiang Mai de nuit (10h de route, on s'est fait offrir le cafe à 6h du mat' en arrivant). Et me voici donc a Chiang Mai pour une semaine environs, avant d'aller au Laos. Ma première expérience de la journée à Chiang Mai est une amande mise par un flic hilard alors que je voulais tourner à droite en motor bike là où c'était interdit. J'ai du le suivre au commissariat pour récupérer mon permis, et là, comme par hasard, l'interdiction de tourner à droite ne s'applique plus... Ca me rappelle Bali tout ça.
 
 Voila, l'article est finit, vous pouvez éteindre votre ordinateur et reprendre une activité normale.
-
 # Chiang Mai
 ## Posté le 2008-06-26 à 12:03:48
 
@@ -848,7 +851,6 @@ Mon passage a Chiang Mai n'aurait pas été le même sans la Julie's Guest House
 Pour terminer, et par ce que j'ai envie de vous poser une question qui n'a rien à voir, voici une devinette : Devinez le nom de ce très bon fruit.
 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214471825EGhM.jpg" alt="" width="640" height="480" />
-
 # Pai
 ## Posté le 2008-06-26 à 12:17:32
 
@@ -876,7 +878,6 @@ Mais bon... la mienne c'est celle la :
 J'en profite pour vous présenter Abby et Sue, deux Anglaise avec lesquelles on a passé un peu de temps aussi.
 
 Revenez ici de temps en temps, des photos vont s'ajouter.
-
 # Fiche du Laos
 ## Posté le 2008-06-26 à 12:18:42
 
@@ -903,7 +904,7 @@ Au Laos, soixante-huit groupes ethniques sont officiellement recensés. Parmi le
 |Densite                                |     22,8 hab/km²|   108 hab/km²|
 |Accroissement naturel de la population |              2,8|          0,46|
 |Esperance de vie                       |           59 ans|     78,86 ans|
-|Urbanisation                           |             17 %|      75,6 ans|
+|Urbanisation                           |            17 %|      75,6 ans|
 
 ### Climat
 
@@ -928,7 +929,6 @@ Forte de 147.000 habitants, Savannakhet est un port fluvial important, au carref
 #### Pakse
 
 Avec 72.000 habitants, au carrefour des routes vers la Thaïlande et le Cambodge, cette ville est l’ancien fief de la famille de Champassak qui régnait sur le Sud.
-
 # Mekong
 ## Posté le 2008-06-26 à 13:26:54
 
@@ -943,7 +943,6 @@ Pour cet article, exceptionnelement je ne vous propose que des photos, en effet 
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214473395mtro.jpg" alt="" width="640" height="480" />
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214473400ezNu.jpg" alt="" width="640" height="480" />
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1214473407uNUm.jpg" alt="" width="640" height="480" />
-
 # Fiche du Pérou
 ## Posté le 2009-10-10 à 14:33:34
 
@@ -981,7 +980,6 @@ Se souvenir que l'anglais est vraiment peu répandu et même l'espagnol peut ne 
 ### Religion
 
 La religion dominante au Pérou, grâce à la longue domination espagnole, est sans doute celle catholique (92,4% de la population). Une minorité résulte protestante (5,5%), tandis que parmi les Amérindiens les cultes animistes sont très répandus. Les populations autochtones tendent à mélanger la religion catholique aux anciennes religions traditionnelles avec des offrandes à Pachamama ou aux dieux de la montagne (apus).
-
 # Derniers préparatifs
 ## Posté le 2009-10-11 à 20:54:51
 
@@ -1000,7 +998,6 @@ Allez, si, j'ai deux destinations à aller voir : Le Machu Pichu, situé près d
 Sur ce je vous dit à bientôt ici même, j'essaierai de mettre un article toutes les semaines environs (sous réserve de cyber cafés disponible).
 
 Etienne
-
 # Côte du sud
 ## Posté le 2009-10-20 à 19:13:45
 
@@ -1075,7 +1072,6 @@ Voila, c'est la fin du recit pour aujourd'hui. Je suis actuellement à Arequipa 
 Je vous dit à tous à très bientôt, et merci pour tous ces commentaires, c'est toujours très agréable de vous lire.
 
 Muchas Besos, Etienne
-
 # Arequipa, Colca, Titicaca
 ## Posté le 2009-10-28 à 17:01:53
 
@@ -1144,7 +1140,6 @@ Au moment où la France est passée à l'heure d'hiver, ici il fait toujours aus
 <img src="http://dud.didoum.free.fr/picsengine/pictures/large/1256606978ASqj.jpg" />
 
 Hasta luego..
-
 # La Paz, Humahuaca et Salaar
 ## Posté le 2009-11-05 à 03:32:21
 
@@ -1225,7 +1220,6 @@ Bon, ben moi je vais fair une petit tour dans la ville, Oruro est principalement
 A très bientôt, et continuez de me lire assiduement jusque la fin, je vous promet un article avec pleins de photos une fois rentré en France.
 
 Hasta la proxima..
-
 # Vous êtes prêts ?
 ## Posté le 2010-11-13 à 11:26:16
 
@@ -1244,7 +1238,6 @@ Ci-dessous une carte de l'île pour vous repérer dans les noms des villes que s
 Je vous laisse, il me reste quelques petite choses à boucler avant de partir, alors à bientôt et n'hésitez pas à laisser des commentaires sous les billets, ça fait toujours chaud au coeur de les lire.
 
 Au revoir
-
 # Salut Vazaha
 ## Posté le 2010-11-21 à 10:38:47
 
@@ -1292,7 +1285,6 @@ Et puis c'est le départ de Manakar en taxi brousse pour aller à Ambalavao et v
 Ici s'arrête ce reçit pour aujourd'hui. Je suis actuellement à Ranohira tout près d'un parc que je voulais visiter car il présente de très belles formations rocheuses, canons et piscine naturelle. Mais une autre élément est venu changer mes plans. J'ai rencontré Michel, un guide touristique qui rentre à Fort Dauphin prendre des client et il me propose de faire le voyage avec lui pour un prix défiant toute concurrence, en effet le voyage est déjà payé par les touristes qu'il va chercher. Je vais donc aller à Fort Dauphin par la côte sud en deux journées de 4x4. Cette côte semble vraiment magnifique, je vous en dirais plus dans le prochain article..
 
 A bientôt..
-
 # Chemins du sud
 ## Posté le 2010-11-25 à 19:42:42
 
@@ -1365,7 +1357,6 @@ Une plage de Fort Dauphin.
 Me voici maintenant revenu à Tana après avoir enfin pu trouver et payer ma place dans un coucou, mon programme pour la suite est de monter vers le nord tranquillement, les routes étant moins bonnes que vers le sud (ça promet !). Je redescendrai ensuite par un deuxième vol intérieur du Nord vers Tana, seule solution pour être sûr du retour.
 
 Je vous laisse sur une question.. Le zébu ressemble étrangement à une vache, et pourtant il s'adapte beaucoup mieux à ces chaleurs, alors pourquoi n'a t-il jamais soif ?
-
 # Un boucle du coté vert
 ## Posté le 2010-12-07 à 17:25:09
 
@@ -1422,7 +1413,6 @@ Et on termine ce voyage à Madagsacar par une petite sieste, l'occasion de faire
 <img title="Hamac, Mer d'Emeraude, Madagascar, déc. 2010" alt="" src="http://etienne.croclemonde.org/public/madagascar/DSCF0463.JPG" />
 
 .. et à bientôt dans un autre coin du monde, des suggestions ?
-
 # Started again
 ## Posté le 2011-12-09 à 20:52:06
 
@@ -1437,7 +1427,6 @@ Voici une carte pour situer tout ça, pour l'heure je suis à Manille mais je n'
 <img src="http://etienne.croclemonde.org/public/Philippines/trip.png" alt="" width="640" />
 
 Ah oui j'oubliais, vous venez sur ce blog a vos risques et périls, je ne pourrais être tenu pour responsable d'une quelconque envie de voyage même si la propagation de ce virus est grandement encouragée par la maison. Maintenant que c'est dit, à bientôt :)
-
 # Palawan
 ## Posté le 2011-12-19 à 15:52:15
 
@@ -1500,7 +1489,6 @@ Le lendemain, comme El Nido est réputé pour l'archipel d'île qu il y a en fac
 <img src="http://etienne.croclemonde.org/public/Philippines/DSCF2264.jpg" />
 
 Mais au fait, vous savez a quoi servent les archipels ?
-
 # Luzon
 ## Posté le 2011-12-30 à 16:21:37
 
@@ -1538,8 +1526,7 @@ Et devinez qui j'ai croisé.. Les petits lutins du père noel. Eh bien j'un scoo
 <img src="http://etienne.croclemonde.org/public/Philippines/DSCF2308.jpg" />
 
 A bientôt pour la suite à Bali où je suis actuellement.. Toujours aussi belle île, mais de plus en plus de touriste au Sud.. au secours fuyons au nord.. Florian m'a rejoint hier, je suis allé le chercher à l'aéroport puis je lui ai montré les environs tout en précisant que le Sud n'est pas le vrai Bali. Puis repos pour encaisser le décallage horaire.
-
-# Les fetes à Bali
+# Les fetes a Bali
 ## Posté le 2012-01-09 à 15:06:10
 
 Hello, revoici des nouvelles de cette petite boucle en Asie.. prenez votre souffle car on a décidé de faire un grand article pour les deux semaines balinaises.
@@ -1604,8 +1591,7 @@ Mais dis donc.. le temps passe et on est déjà le 28, Florian arrive demain et 
 
 Florian, c'est lui :
 
-<img src="http://etienne.croclemonde.org/public/indonesie/DSC_0259.JPG" />
-
+<center><img src="http://etienne.croclemonde.org/public/indonesie/DSC_0259.JPG" /></center>
 # Bali express
 ## Posté le 2012-01-18 à 16:39:42
 
