@@ -1,34 +1,34 @@
 # Côte du sud 
 ## Posté le 2009-10-20 à 19:13:45
 
-<p>Bonjour,</p>
+Bonjour,
 
-<p>Alors alors, par ou commencer... Ah oui, par le premier jour..</p>
+Alors alors, par ou commencer... Ah oui, par le premier jour..
 
-<p>Nous sommes lundi 12, je suis a l'heure a l'aeroport, mon avion est a l'heure lui aussi, je demande confirmation pour savoir si l'arriere de l'appareil dessert bien Miami lui aussi comme il est indique a l'avant :), et c'est parti pour un
+Nous sommes lundi 12, je suis a l'heure a l'aeroport, mon avion est a l'heure lui aussi, je demande confirmation pour savoir si l'arriere de l'appareil dessert bien Miami lui aussi comme il est indique a l'avant :), et c'est parti pour un
 survol de l'atlantique, 10h de vol, 12h de transit force sur le sol americain car l'aeroport n'a pas de zone
 
-internationale, je vais voir la plage, me balade dans Miami, sympa cette escale..</p>
+internationale, je vais voir la plage, me balade dans Miami, sympa cette escale..
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996649K0tQ.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996649K0tQ.jpg">
 
-<p>Puis c'est reparti pour 6 heures de vol direction Lima, capitale du Perou, la je decouvre une ville immense (8 million
+Puis c'est reparti pour 6 heures de vol direction Lima, capitale du Perou, la je decouvre une ville immense (8 million
 
 d'habitants) aux differents quartiers tres differents. Du quartier tres pauvre ou me laisse le collectivo (minivan transforme
 
-en minibus tres cheap)</p>
+en minibus tres cheap)
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996655Vfsf.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996655Vfsf.jpg">
 
-<p>Au quartier deja un peu plus riche autour de la <em>plaza de armas</em>, ici une photo d'une batiment du gouvernement qui
+Au quartier deja un peu plus riche autour de la <em>plaza de armas</em>, ici une photo d'une batiment du gouvernement qui
 
 borde la <em>plaza de armas</em>. Je decouvrirais plus tard que chaque ville comporte une place de ce nom, et il s'agit en
 
-general d'une place richement decoree, contrastant avec les alentours.</p>
+general d'une place richement decoree, contrastant avec les alentours.
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996660JAoN.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996660JAoN.jpg">
 
-<p>Reprenons le fil des choses, je suis arrive a 4h30 du matin et j'ai attendu un peu le jour avant de sortir de l'aeroport,
+Reprenons le fil des choses, je suis arrive a 4h30 du matin et j'ai attendu un peu le jour avant de sortir de l'aeroport,
 
 j'ai eu le temps de me renseigner comment eviter les taxi hors de prix puis me voila avec mon sac dans un collectivo bonde
 
@@ -42,11 +42,11 @@ reste de la matinee a me ballader dans Miroflores,quartier chic de Lima (tout es
 
 sur l'ocean, puis je prend mon bus pour Pisco. Je visiterai plus en detail Lima a mon retour avant de revenir sur le vieux
 
-continent.</p>
+continent.
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996643RUpx.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996643RUpx.jpg">
 
-<p>Pisco, ville touchee par un seisme deux ans plus tot, tout est en reconstruction, on sent vraiment la pauvrete ici. Le
+Pisco, ville touchee par un seisme deux ans plus tot, tout est en reconstruction, on sent vraiment la pauvrete ici. Le
 
 Lonely Planet me dit de me mefier, l'hotel me dit de sortir sans sac, de cacher mon appareil photo et de laisser mon
 
@@ -54,15 +54,15 @@ passeport dans le coffre fort de la chambre (pourtant j'avais pris une chambre s
 
 laisse presager..). Quoi de mieux pour faire flipper le voyageur en visite ? Je ne me suis jamais senti en insecurite a
 
-Pisco, les gens sont sympa, l'extreme pauvrete alliee a l'aridite du sol donne a la ville un caractere etrange</p>
+Pisco, les gens sont sympa, l'extreme pauvrete alliee a l'aridite du sol donne a la ville un caractere etrange
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/12559974777RC0.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/12559974777RC0.jpg">
 
-<p>Allez, une petite photo d'un etalage, passque vous le valez bien</p>
+Allez, une petite photo d'un etalage, passque vous le valez bien
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997490cIfD.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997490cIfD.jpg">
 
-<p>Heureusement pour les <em>piscoñeros</em>, une belle richesse est aux portes de la ville, il s'agit des iles Balestas,
+Heureusement pour les <em>piscoñeros</em>, une belle richesse est aux portes de la ville, il s'agit des iles Balestas,
 
 veritable condense de faune (pas tres) sauvage, ainsi qu'un mystere archeologique. Un chandelier a ete trace il y a des
 
@@ -72,61 +72,61 @@ dessin ne s'efface pas. Nous voyons ce chandelier d'un bateau en allant voir les
 
 le dessin est sur une face sous le vent, donc protegee, et que la sedimentation aurait durci le sol. Quoi il en soit il est
 
-interdit de debarquer pour aller verifier</p>
+interdit de debarquer pour aller verifier
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997496rIn7.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997496rIn7.jpg">
 
-<p>Et nous voici sur les iles, ici vit un grand nombre de pelicans pingouins, lions des mers et plein d'autres oiseaux..</p>
+Et nous voici sur les iles, ici vit un grand nombre de pelicans pingouins, lions des mers et plein d'autres oiseaux..
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997482Hoy0.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997482Hoy0.jpg">
 
-<p>Regardez moi cette star...</p>
+Regardez moi cette star...
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997520UtdU.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997520UtdU.jpg">
 
-<p>Me voila reparti sur la route direction Ica, et surtout Huacachina, petit Oasis touristique au milieu des dunes pour
+Me voila reparti sur la route direction Ica, et surtout Huacachina, petit Oasis touristique au milieu des dunes pour
 
-faire du sandboard, activite vivement conseillee par mes tres cheres colocs qui l'ont pratique un an plus tot et en ont encore le sourire aujourd'hui quand elles en parlent (Helene et Dova, merci pour le conseil, je me suis regale !!). Le concept ? Une oasis entouree de dune qui sert de camp de base pour partir deux heures en <em>areñeros</em>, 4*4 au design lunaire avec lequel on va a fond dans les dunes, devalant les pentes et derapant de partout, puis seance de sandboard, snowboard des sables. Et bien vous savez quoi ? on se dit que c'est facile quand on sait faire du snow, et en fait ca l'est pas tant que ca, mais bon j'ai quand meme reussi a faire mes virages et quelques belles descentes.</p>
+faire du sandboard, activite vivement conseillee par mes tres cheres colocs qui l'ont pratique un an plus tot et en ont encore le sourire aujourd'hui quand elles en parlent (Helene et Dova, merci pour le conseil, je me suis regale !!). Le concept ? Une oasis entouree de dune qui sert de camp de base pour partir deux heures en <em>areñeros</em>, 4*4 au design lunaire avec lequel on va a fond dans les dunes, devalant les pentes et derapant de partout, puis seance de sandboard, snowboard des sables. Et bien vous savez quoi ? on se dit que c'est facile quand on sait faire du snow, et en fait ca l'est pas tant que ca, mais bon j'ai quand meme reussi a faire mes virages et quelques belles descentes.
 
-<p>Voici votre envoye special au debut du tour..</p>
+Voici votre envoye special au debut du tour..
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997503PLr1.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997503PLr1.jpg">
 
-<p>Pour le concept du sandboard, c'est par ici..</p>
+Pour le concept du sandboard, c'est par ici..
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997499n41M.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255997499n41M.jpg">
 
-<p>OK, c'est pas moi sur la planche, j'ai des videos de mes descentes mais il faudra attendre la fin du voyage pour les voir
+OK, c'est pas moi sur la planche, j'ai des videos de mes descentes mais il faudra attendre la fin du voyage pour les voir
 
-car elle demandent d'etre travailles pour etre au bon format.</p>
+car elle demandent d'etre travailles pour etre au bon format.
 
-<p>Je rencontre plein de gens a Huacachina, dont deux belges que vous pouvez voir sur les deux photos ci-dessus (Quentin a
+Je rencontre plein de gens a Huacachina, dont deux belges que vous pouvez voir sur les deux photos ci-dessus (Quentin a
 
-cote de moi et Maritv est la plus haute des deux sandboardeuses), une famille d'americains qui a pris 11 mois pour voyager around ze world, avec deux ados, j'adore ce concept, et les parents sont bien sympas, on a discute un long moment. Je croise aussi Didier au sandboard, on se reverra a Nazca.</p>
+cote de moi et Maritv est la plus haute des deux sandboardeuses), une famille d'americains qui a pris 11 mois pour voyager around ze world, avec deux ados, j'adore ce concept, et les parents sont bien sympas, on a discute un long moment. Je croise aussi Didier au sandboard, on se reverra a Nazca.
 
-<p>Nazca, petite ville, grande enigme archeologique (encore une !). Nazca est proche de grands plateaux arrides sur
+Nazca, petite ville, grande enigme archeologique (encore une !). Nazca est proche de grands plateaux arrides sur
 
-lesquelles une britanique, Maria Reiche, a decouvert vers 1930 que des symboles geoemetriques, essentiellement des lignes parfaitement droites on ete tracees en deplacant simplement les pierres au sol. La encore on ne sait pas comment le phenomene ne s'efface pas avec le temps, un simple coup de vent devrait suffire, et pourtant.. La deuxieme question est de savoir, la signification de ces lignes, personne ne la connait, plusieurs theories ont ete avancees suivant des modeles mathematiques, suivant les alignement des astres a certaines periodes de l'annee.. Et la troisieme question est de savoir comment cela a ete fait. En effet il est indispensable d'avoir un point de vue du ciel pour faire ces dessins gigantesques, hors cela n'existait pas a l'epoque.</p>
+lesquelles une britanique, Maria Reiche, a decouvert vers 1930 que des symboles geoemetriques, essentiellement des lignes parfaitement droites on ete tracees en deplacant simplement les pierres au sol. La encore on ne sait pas comment le phenomene ne s'efface pas avec le temps, un simple coup de vent devrait suffire, et pourtant.. La deuxieme question est de savoir, la signification de ces lignes, personne ne la connait, plusieurs theories ont ete avancees suivant des modeles mathematiques, suivant les alignement des astres a certaines periodes de l'annee.. Et la troisieme question est de savoir comment cela a ete fait. En effet il est indispensable d'avoir un point de vue du ciel pour faire ces dessins gigantesques, hors cela n'existait pas a l'epoque.
 
-<p>A ces lignes s'ajoutent un certain nombre de geoglyphes, dessins representatifs d'animaux essentiellement, qui ne sont
+A ces lignes s'ajoutent un certain nombre de geoglyphes, dessins representatifs d'animaux essentiellement, qui ne sont
 
-observables que depuis le ciel car leur envergure peut atteindre 150 metres :</p>
+observables que depuis le ciel car leur envergure peut atteindre 150 metres :
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996049EeEt.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996049EeEt.jpg">
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996046TE4T.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996046TE4T.jpg">
 
-<p>En arrivant a Nazca, je rencontre Didier, un Belge bien sympa qui a pris 6 mois de break pour voyager en amerique latine et en Australie.  Ne nous reverrons plusieurs fois a Nazca, puis prendrons le meme bus pour Arequipa, apres les differents problemes enonces ci dessous.</p>
+En arrivant a Nazca, je rencontre Didier, un Belge bien sympa qui a pris 6 mois de break pour voyager en amerique latine et en Australie.  Ne nous reverrons plusieurs fois a Nazca, puis prendrons le meme bus pour Arequipa, apres les differents problemes enonces ci dessous.
 
-<p>L'apres midi, apres avoir survole les lignes, je me ballade a l'exterieur de Nazca ou je rencontre un groupe de jeunes qui
+L'apres midi, apres avoir survole les lignes, je me ballade a l'exterieur de Nazca ou je rencontre un groupe de jeunes qui
 
 jouent au volley, je me pose a cote puis leur demande de jouer avec eux. Il m'acceptent avec plaisir et nous passons
 
-rapidement de 4 joueurs a 10, on rit de partout et je reste toute l'apres midi.</p>
+rapidement de 4 joueurs a 10, on rit de partout et je reste toute l'apres midi.
 
-<p><img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996043Enc7.jpg"></p>
+<img src="http://dud.didoum.free.fr/picsengine/pictures/large/1255996043Enc7.jpg">
 
-<p>Plus tard, forcement, je leur demande si jeu peux dormir chez eux, ils acceptent avec grand enthousiasme, j'ai la baraka,
+Plus tard, forcement, je leur demande si jeu peux dormir chez eux, ils acceptent avec grand enthousiasme, j'ai la baraka,
 
 le sourire jusqu'au oreilles tellement je suis content de pouvoir faire ca. On se donne rendez vous a 21h sur la plaza de
 
@@ -150,17 +150,17 @@ personnes ne sont plus la, ou elles se cachent, je ne sait pas. Ce que je compre
 
 cet apres midi et que je suis redevenu un inconnu, je repars donc sans insister, et vais rechanger mon bus vu qu'il n'est pas
 
-trop tard.</p>
+trop tard.
 
-<p>Oui, mais non.. Le bus a eu un probleme en venant de Lima, il ne passera pas. On aura le suivant a 1h du mat' au lieu de
+Oui, mais non.. Le bus a eu un probleme en venant de Lima, il ne passera pas. On aura le suivant a 1h du mat' au lieu de
 
 23h30. Pour Didier et moi ca ne change pas grand chose. On doit juste rendre notre billet pour en avoir un nouveau gratuit. Le probleme est que je ne retrouve plus ce ticket, impossible d'en avoir un nouveau sans rendre l'ancien, et puis c'est 10
 
 dollars US donc j'ai pas envie de repayer, la solution est d'aller faire une declaration de perte au commissariat, la
 
-declaration servira de billet d'echange.</p>
+declaration servira de billet d'echange.
 
-<p>Et la commence le comique, le pittoresque. Allez faire bouger un flic pour avoir un bout de papier officiel de sa part au
+Et la commence le comique, le pittoresque. Allez faire bouger un flic pour avoir un bout de papier officiel de sa part au
 
 Perou... et a minuit !! Il me demande nombre d'informations inutiles, il n'est pas alle jusqu'a l'age de ma premiere dent,
 
@@ -174,10 +174,10 @@ j'imagine...). Bref, une heure apres me voici avec mon sesame, tampone 5 fois (a
 
 aiment ca a peu pres partout ou je suis passe en voyageant). Je ne pourrais meme pas garder ce papier, j'ai du le rendre
 
-contre un nouveau billet, dommage..</p>
+contre un nouveau billet, dommage..
 
-<p>Voila, c'est la fin du recit pour aujourd'hui. Je suis actuellement a Arequipa avec Didier, dans le sud du Perou et nous partons cette nuit prendre un bus direction l'un des cañons les plus profinds du monde. Je prendrais ensuite la route direction la Bolivie et le Salaar de Uyuni, en passant sans doute pas le Chili un ou deux jours. Le programme ensuite sera sans doute une remontee de la Bolivie par Sucre, Santa Cruz et La Paz, puis le lac Titicaca et le Machu Pichu, pres de Cuzco.</p>
+Voila, c'est la fin du recit pour aujourd'hui. Je suis actuellement a Arequipa avec Didier, dans le sud du Perou et nous partons cette nuit prendre un bus direction l'un des cañons les plus profinds du monde. Je prendrais ensuite la route direction la Bolivie et le Salaar de Uyuni, en passant sans doute pas le Chili un ou deux jours. Le programme ensuite sera sans doute une remontee de la Bolivie par Sucre, Santa Cruz et La Paz, puis le lac Titicaca et le Machu Pichu, pres de Cuzco.
 
-<p>Je vous dit a tous a tres bientot, et merci pour tous ces commentaires, c'est toujours tres agreable a lire.</p>
+Je vous dit a tous a tres bientot, et merci pour tous ces commentaires, c'est toujours tres agreable a lire.
 
-<p>Muchas Besos, Etienne</p>
+Muchas Besos, Etienne

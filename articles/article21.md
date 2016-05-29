@@ -1,17 +1,18 @@
 # Des indiens dans la ville
 ## Posté le 2008-02-01 à 09:06:17
 
-<p>Aujourd hui visite du centre de Delhi et plus specialement le coin de Connaught Place, tout cela apres un petit dejeuner indiano-europeen sur le toit de l hotel (5 etages) avec vue sur les environs. Une super rencontre au milieu du parc public de Connaught Place avec Raja et Showkat qui nous invitent a prendre un indian tea dans une petite boutique genre snack, nous passons deux heures a discuter avec eux, ils nous ont appris quelques mots d hindi qui vont nous etre tres utiles (on dit namaste pour dire bonjour ou au revoir, ca on le savait, ensuite pour dire merci c est daniwad et je n ai besoin de rien se dit chalo). Nous avons alors teste notre nouveau vocabulaire et c est imporessionnant de voire le changement de reaction des gens quant on leur dit un mot dans leur langue. Dire I dont need anything ne sert pas a grand chose alors que dire chalo nous donne droit a un sourire respectueux et aucun insistement de l part du vendeur.</p>
+Aujourd'hui visite du centre de Delhi et plus spécialement le coin de Connaught Place, tout cela après un petit déjeuner indiano-européen sur le toit de l’hôtel, au 5ème étage, avec vue sur les environs. Une super rencontre au milieu du parc public de Connaught Place avec Raja et Showkat qui nous invitent à prendre un indian tea dans une petite boutique genre snack, nous passons deux heures à discuter avec eux, ils nous ont appris quelques mots d’Hindi qui vont nous être très utiles (on dit namasté pour dire bonjour ou au revoir, ça on le savait, ensuite pour dire merci c’est daniwad et je n’ai besoin de rien se dit chalo). Nous avons alors testé notre nouveau vocabulaire et c’est impressionnant de voire le changement de réaction des gens quand on leur dit un mot dans leur langue. Dire I dont need anything ne sert pas à grand chose alors que dire chalo nous donne droit a un sourire respectueux et aucun insistement de la part du vendeur.
+// TODO : Expliquer la méprise
 
-<p>Apres ca on a essaye de se renseigner sur les trains pour commencer notre tour. premiere boutique, clairement arnaqueuse et habituee aux touristes (d ailleur le prix est en euros), mais un chauffeur de rickshaw nous indique une meilleure adrese et il s agit de la boutique recommendee par le lonely planet. Et la... c est le drame... imaginez le rajasthan grand comme a peu pres deux tiers de la france, mettez y quelques lignes de trains reliant uniquement les grandes villes et une enorme population (12 millions a New Delhi). Il faut donc reserver bien a l avance son trajet, nous n avons rien avant 12 jours. On va donc prendre les billets correspondant a la deuxieme partie de notre voyage demain et nous devrons nous passer de train pour la premiere partie (bus, rickshaw...).
+Après ca on a essayé de se renseigner sur les trains pour commencer notre tour. Première boutique, clairement arnaqueuse et habituée aux touristes (d’ailleurs le prix est en euros), mais un chauffeur de rickshaw nous indique une meilleure adresse et il s’agit de la boutique recommandée par le Lonely Planet. Et la... c’est le drame... imaginez le Rajasthan grand comme à peu près deux tiers de la France, mettez y quelques lignes de trains reliant uniquement les grandes villes et une énorme population (12 millions à New Delhi). Il faut donc réserver bien a l’avance son trajet, nous n’avons rien avant 12 jours. On va donc prendre les billets correspondant à la deuxième partie de notre voyage demain et nous devrons nous passer de train pour la première partie (bus, rickshaw...).
 
-En tout cas niveau repas c est excellent, et piquant... le respect de l hygiene est assez folklorique... mais on est pas la pour ca
+En tout cas niveau repas c’est excellent, et piquant... le respect de l’hygiène est assez folklorique... mais on est pas là pour ça.
 
-Une vue du haut de l hotel<br />
+Une vue du haut de l’hôtel
 <img src="http://dud.didoum.free.fr/upload/min/toithotel.jpg" />
 
-Notre premier rickshaw<br />
+Notre premier rickshaw
 <img src="http://dud.didoum.free.fr/upload/min/ricksaw.jpg" />
 
-Le parc au milieu de Connaught Place<br />
-<img src="http://dud.didoum.free.fr/upload/min/connaughtplace.jpg" /></p>
+Le parc au milieu de Connaught Place
+<img src="http://dud.didoum.free.fr/upload/min/connaughtplace.jpg" />

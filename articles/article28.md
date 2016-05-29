@@ -1,11 +1,11 @@
 # Il commence a faire chaud
 ## Posté le 2008-02-18 à 10:23:54
 
-<p>Aujourd'hui, je vais vous livrer un petit secret : nos 3 phrases préférées du
+Aujourd'hui, je vais vous livrer un petit secret : nos 3 phrases préférées du
 
 moment.
 
-- &quot;Dure la vie hein!&quot;, a prendre évidemment au second
+- "Dure la vie hein!", a prendre évidemment au second
 
 degre. On dort dans des hotels sympa, on mange dans des resto tres bons avec des
 
@@ -13,17 +13,17 @@ vues exceptionnelles, le petit vent chaud du soir est tres agreable, les palaces
 
 sont plus beaux les uns que les autres...
 
-- &quot;Ca fait combien de temps
+- "Ca fait combien de temps
 
-qu'on n'a pas vu un nuage?&quot; La reponse commence a s'approcher gentilment de
+qu'on n'a pas vu un nuage?" La reponse commence a s'approcher gentilment de
 
-&quot;deux semaines&quot;. Et oui, que du grand ciel bleu a l'horizon, du lever au
+"deux semaines". Et oui, que du grand ciel bleu a l'horizon, du lever au
 
 coucher du soleil (qui sont toujours rouges, bleus, verts et violets on tient a
 
 preciser).
 
--&quot;Ils sont fous, vraiment, completement fous je te dis&quot;.
+-"Ils sont fous, vraiment, completement fous je te dis".
 
 Les Indiens bien sur, on n'a pas idee de construire autant de merveilles au
 
@@ -81,7 +81,7 @@ des Indiens et on relance les conversations. Nous croisons beaucoup de gens, mai
 
 brievement. Nous nous fondons aussi de mieux en mieux dans le paysage, portant des
 
-habits plus &quot;cool&quot; et connaissant maintenant les combines des marchands.
+habits plus "cool" et connaissant maintenant les combines des marchands.
 
 On ne prevoit plus ce qu'on fait, mais seulement on vit le moment a fond.
 
@@ -103,56 +103,56 @@ nous l'effet que ça produit, la trace que ça laissera, et c'est bien le
 
 principal.
 
-Des femmes en sari colore<br />
-<img src="http://dud.didoum.free.fr/upload/min/sari.jpg" width="639"/></p>
+Des femmes en sari colore
+<img src="http://dud.didoum.free.fr/upload/min/sari.jpg" width="639"/>
 
-<p>Un groupe d'enfants en sortie scolaire<br />
-<img src="http://dud.didoum.free.fr/upload/min/scolaire.jpg" width="639"/></p>
+Un groupe d'enfants en sortie scolaire
+<img src="http://dud.didoum.free.fr/upload/min/scolaire.jpg" width="639"/>
 
-<p>Une icone peinte sur un rocher<br />
-<img src="http://dud.didoum.free.fr/upload/min/bonhommerouge.jpg" width="639" /></p>
+Une icone peinte sur un rocher
+<img src="http://dud.didoum.free.fr/upload/min/bonhommerouge.jpg" width="639" />
 
-<p>Un elephant dans une rue d'Udaipur<br />
-<img src="http://dud.didoum.free.fr/upload/min/elephant.jpg" width="639" /></p>
+Un elephant dans une rue d'Udaipur
+<img src="http://dud.didoum.free.fr/upload/min/elephant.jpg" width="639" />
 
-<p>Des femmes lavant le linge sur les gaths<br />
-<img src="http://dud.didoum.free.fr/upload/min/linge.jpg" width="639" /></p>
+Des femmes lavant le linge sur les gaths
+<img src="http://dud.didoum.free.fr/upload/min/linge.jpg" width="639" />
 
-<p>Le linge qui seche<br />
-<img src="http://dud.didoum.free.fr/upload/min/seche.jpg" width="639" /></p>
+Le linge qui seche
+<img src="http://dud.didoum.free.fr/upload/min/seche.jpg" width="639" />
 
-<p>Le City Palace d'Udaipur vu depuis le lac<br />
-<img src="http://dud.didoum.free.fr/upload/min/palacelac.jpg" width="639" /></p>
+Le City Palace d'Udaipur vu depuis le lac
+<img src="http://dud.didoum.free.fr/upload/min/palacelac.jpg" width="639" />
 
-<p>Une autre vue du City Palace<br />
-<img src="http://dud.didoum.free.fr/upload/min/citylac2.jpg" width="639" /></p>
+Une autre vue du City Palace
+<img src="http://dud.didoum.free.fr/upload/min/citylac2.jpg" width="639" />
 
-<p>Une salle du City Palace<br />
-<img src="http://dud.didoum.free.fr/upload/min/citysalle.jpg" width="639" /></p>
+Une salle du City Palace
+<img src="http://dud.didoum.free.fr/upload/min/citysalle.jpg" width="639" />
 
-<p>Une cours intérieure<br />
-<img src="http://dud.didoum.free.fr/upload/min/citycours.jpg" width="639" /></p>
+Une cours intérieure
+<img src="http://dud.didoum.free.fr/upload/min/citycours.jpg" width="639" />
 
-<p>La ville d'Udaipur<br />
-<img src="http://dud.didoum.free.fr/upload/min/udaipur.jpg" width="639" /></p>
+La ville d'Udaipur
+<img src="http://dud.didoum.free.fr/upload/min/udaipur.jpg" width="639" />
 
-<p>Une belle vue depuis une ile du lac Pichola<br />
-<img src="http://dud.didoum.free.fr/upload/min/picchola.jpg" width="639" /></p>
+Une belle vue depuis une ile du lac Pichola
+<img src="http://dud.didoum.free.fr/upload/min/picchola.jpg" width="639" />
 
-<p>Un immense temple jain de Ranakpur<br />
-<img src="http://dud.didoum.free.fr/upload/min/ranak.jpg" width="639" /></p>
+Un immense temple jain de Ranakpur
+<img src="http://dud.didoum.free.fr/upload/min/ranak.jpg" width="639" />
 
-<p>Le detail d'un temple<br />
-<img src="http://dud.didoum.free.fr/upload/min/ranak2.jpg" width="639" /></p>
+Le detail d'un temple
+<img src="http://dud.didoum.free.fr/upload/min/ranak2.jpg" width="639" />
 
-<p>Etienne nourissant les singes<br />
-<img src="http://dud.didoum.free.fr/upload/min/ranak3.jpg" width="639" /></p>
+Etienne nourissant les singes
+<img src="http://dud.didoum.free.fr/upload/min/ranak3.jpg" width="639" />
 
-<p>La vue depuis la terrasse de notre guest house de Jodhpur<br /><img
+La vue depuis la terrasse de notre guest house de Jodhpur<img
 
-src="http://dud.didoum.free.fr/upload/min/ranak4.jpg" width="639" /></p>
+src="http://dud.didoum.free.fr/upload/min/ranak4.jpg" width="639" />
 
-<p>Allez, parce que vous etes sages, vous avez le droit a une video
+Allez, parce que vous etes sages, vous avez le droit a une video
 
 bonus<div><object width="640" height="505"><param name="movie"
 
@@ -166,4 +166,4 @@ src="http://www.dailymotion.com/swf/x4fiei&v3=1&related=1"
 
 type="application/x-shockwave-flash" width="640" height="505"
 
-allowFullScreen="true" allowScriptAccess="always"></embed></object></div></p>
+allowFullScreen="true" allowScriptAccess="always"></embed></object></div>

@@ -1,7 +1,7 @@
 # Un boucle du coté vert
 ## Posté le 2010-12-07 à 17:25:09
 
-<p>Salut tout le monde, on repart faire une petite boucle à Mada, vers le nord cette fois, pour vous raconter la fin du voyage..
+Salut tout le monde, on repart faire une petite boucle à Mada, vers le nord cette fois, pour vous raconter la fin du voyage..
 
 Nous étions restés à Tananarive ou j'avais atterri après un vol depuis Fort Dauphin. Tana n'étant pas une ville très sympa à visiter, le lendemain j'ai pris un taxi brousse pour aller voir le parc d'Andasibe qui renferme l'un des lémures les plus rares de la Grande Ils, j'ai nommé l'Indri. Après moultes déboires de transports dus à une trop grande méfiance de ma part, j'arrive au parc en début d'après midi, à l'heure de la sieste des lémures. Qu'à cela ne tienne, si ils sont sympa ils auront choisi de faire la sieste à coté du chemin.. Je vois donc ce fameux lémure, le plus grand, en plein repos puis il se met à communiquer avec ses potes dans un bruit impressionnant (vidéos à venir une fois en France).
 
@@ -47,5 +47,5 @@ L'occasion de vous présenter Anthony, à gauche, ainsi que notre cuistot et not
 
 Allez, pour la postérité, "j'y étais !"
 
-<img title="Etienne, Mer d'Emeraude, Madagascar, déc. 2010" alt="" src="http://etienne.croclemonde.org/public/madagascar/DSCF0457.JPG" /></p>
-Et on termine ce voyage à Madagsacar par une petite sieste, l'occasion de faire bon usage du cadeau d'au revoir de la conv'tek'team du tonnerre, merci à vous..<br /><br /><img title="Hamac, Mer d'Emeraude, Madagascar, déc. 2010" alt="" src="http://etienne.croclemonde.org/public/madagascar/DSCF0463.JPG" /><br /><br />.. et à bientôt dans un autre coin du monde, des suggestions ?<br />
+<img title="Etienne, Mer d'Emeraude, Madagascar, déc. 2010" alt="" src="http://etienne.croclemonde.org/public/madagascar/DSCF0457.JPG" />
+Et on termine ce voyage à Madagsacar par une petite sieste, l'occasion de faire bon usage du cadeau d'au revoir de la conv'tek'team du tonnerre, merci à vous..<img title="Hamac, Mer d'Emeraude, Madagascar, déc. 2010" alt="" src="http://etienne.croclemonde.org/public/madagascar/DSCF0463.JPG" />.. et à bientôt dans un autre coin du monde, des suggestions ?

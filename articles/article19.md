@@ -1,6 +1,7 @@
-# on a nos exams!!
+# On a nos exams!!
 ## Posté le 2008-01-30 à 08:42:06
 
-<p>et oui bon debut de journee : premiere bonne nouvelle avant le depart a l aeroport : on a tous les 2 les uv qu il nous faut cad que finis le cours pour de bon!!!
+Et oui bon début de journée : première bonne nouvelle avant le départ à l aéroport : on a tous les 2 les UV qu il nous faut c'est à dire que finis les cours pour de bon!!!
 
-nous sommes maintenant en attente d embarquement et le vol est a l heure en plus</p>
+Nous sommes maintenant en attente d'embarquement et le vol est à l'heure en plus
+TODO : Ajouter du contexte
