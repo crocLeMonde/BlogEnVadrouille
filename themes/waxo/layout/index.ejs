@@ -1,0 +1,24 @@
+<section id='indexContainer'><% page.posts.each(function(post) { %>
+	<article itemscope itemType='http://schema.org/BlogPosting'>
+		<header>
+			<h1 itemprop='headline'>
+				<a href='<%- url_for( post.path) %>'><%= post.title || '(no title)' %></a>
+			</h1>
+			<p><time itemprop='datePublished' content='<%= post.date %>'><%= post.date.format('DD MMM YYYY') %></time>
+			<% if ( (post.categories) && (post.categories.length > 0) ) {%> in <%- list_categories( post.categories, { show_count: 0, style: 'none' }) %> <% } %></p>
+		</header>
+		<div itemprop='articleBody'>
+			<p><%- post.excerpt || post.content.replace(/<(?:.|\n)*?>/gm, '').substr(0, 200) %></p>
+		</div>
+		<a href='<%- url_for(post.path) %>' class='readmore'>Lire la suite</a>
+	</article><% }) %>
+	<div id='pagination'>
+		<% if (page.prev) { %>
+			<a href="<%- url_for(page.prev_link) %>">Articles suivants</a>
+		<% } %>
+		<% if (page.next) { %>
+			<a href="<%- url_for(page.next_link) %>">Articles précédents</a>
+		<% } %>
+		<span>Page <%= page.current + ' sur ' + page.total %></span>
+	</div>
+</section>

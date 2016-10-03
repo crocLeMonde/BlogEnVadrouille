@@ -1,0 +1,17 @@
+#indexContainer { padding: 50px 0;
+
+	> article { width: 90%; max-width: 700px; margin: 20px auto; padding-bottom: 30px; border-bottom: 1px solid #ddd;
+		> header { margin-bottom: 10px;
+			> h1 { font-weight: bold; font-size: 32px; line-height: 1.2;
+				> a { color: #333; text-decoration: none; }
+			}
+			> p { font-size: 12px; color: #999;
+				> a { text-decoration: none; color: $blue; }
+			}
+		}
+		code { background: #eee; border: 1px solid #ccc; border-radius: 5px; padding: 0 5px; margin-right: 3px; }
+		a { text-decoration: none; color: $blue; }
+		> .readmore { font-size: 12px; text-decoration: none; color: $blue; }
+	}
+
+}

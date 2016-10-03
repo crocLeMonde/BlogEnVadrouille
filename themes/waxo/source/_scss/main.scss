@@ -1,0 +1,30 @@
+/**
+ * Reset
+ */
+@import 'reset';
+/**
+ * Fonts
+ */
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
+/**
+ * Vars
+ */
+$blue: #55acee;
+/**
+ * Generic styles
+ */
+html { height: 100%; font-size: 62.5%; }
+body { font-family: 'Raleway', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.4; width: 100%; color: #333; background: #fff; }
+::selection { background-color: rgba(40, 136, 249, .75); color: #fff; opacity: .25; }
+::-moz-selection { background-color: rgba(40, 136, 249, .75); color: #fff; opacity: .25; }
+input:-webkit-autofill { -webkit-box-shadow: 0 0 0px 900px white inset; }
+@media screen and (min-width: 900px) {
+	body {  padding-left: 250px; }
+}
+/**
+ * Imports
+ */
+@import 'sidebar';
+@import 'index';
+@import 'pagination';
+@import 'post';

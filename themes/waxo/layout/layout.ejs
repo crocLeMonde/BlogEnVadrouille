@@ -1,0 +1,111 @@
+<%
+	var title = '';
+
+	if ( is_home() )
+		title = config.title;
+	else if (is_archive()){
+		title += 'All archives';
+
+		if (is_month()) {
+			title += ' : ' + page.year + '/' + page.month;
+		}
+		else if (is_year()) {
+			title += ' : ' + page.year;
+		}
+
+		title += ' - ' + config.title;
+	}
+	else if (is_tag()) {
+		if (page.tag) {
+			title += 'Tag : ' + page.tag;
+		}
+		else {
+			title += 'All tags';
+		}
+
+		title += ' - ' + config.title;
+	}
+	else if (is_category()) {
+		if (page.category) {
+			title += 'Category : ' + page.category;
+		}
+		else {
+			title += 'All categories';
+		}
+
+		title += ' - ' + config.title;
+	}
+	else {
+	  title += page.title + ' - ' + config.title;
+	}
+
+	var type = 'article';
+	if( is_home() )
+		type = 'site';
+
+	var currentUrl = config.url + page.path;
+	if( is_home() )
+		currentUrl = config.url;
+
+	var description = 'Blog en vadrouille';
+	if( page.excerpt )
+		description = page.excerpt;
+
+%><!DOCTYPE html>
+<html lang='en'>
+<head>
+	<meta charset='utf-8'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+	<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'>
+	<title><%= title %></title>
+	<meta name='author' content='Fabien Huet http://wax-o.com/'>
+	<meta name='description' content='<%= description %>'>
+	<link rel='icon' href='<%- url_for( theme.image_dir + '/favicon.ico' ) %>'>
+	<link rel=author href='http://wax-o.com/'>
+	<link rel=publisher href='http://blog.wax-o.com/'>
+	<meta name=keywords content='web developper, meteor, react, node'>
+	<meta property='og:type' content='<%= type %>'>
+	<meta property='og:url' content='<%= currentUrl %>'>
+	<meta property='og:title' content='<%= title %>'>
+	<meta property='og:site_name' content='blog.wax-o.com'>
+	<meta property='og:locale' content='en_US'>
+	<meta property='og:description' content='<%= description %>'>
+	<meta property='og:image' content='http://wax-o.com/img/fabien_huet.png'>
+	<meta itemprop='name' content='wax-o.com'>
+	<meta itemprop='description' content='<%= description %>'>
+	<meta itemprop='image' content='http://wax-o.com/img/fabien_huet.png'>
+	<meta name='twitter:card' content='summary'>
+	<meta name='twitter:site' content='http://blog.wax-o.com/'>
+	<meta name='twitter:title' content='<%= title %>'>
+	<meta name='twitter:description' content='<%= description %>'>
+	<meta name='twitter:creator' content='@fabien_huet'>
+	<meta name='twitter:image' content='http://wax-o.com/img/fabien_huet.png'>
+	<link href='<%- url_for( theme.css_dir + '/main.css' ) %>' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<nav id='sideBar'>
+	<img src='<%- url_for( theme.image_dir + '/fabien_huet.jpg' ) %>' alt='Fabien Huet'>
+	<h1>Etienne Le Montreer</h1>
+	<p>Voyageur découvreur</p>
+	<!--<a href='<%- url_for( config.root ) %>'><svg xmlns='http://www.w3.org/2000/svg'><path d='M2.2,10.4v8.3c0,0.2,0.1,0.3,0.2,0.4c0.1,0.1,0.3,0.2,0.4,0.2h4.7v-6.1c0-0.2,0.1-0.3,0.2-0.4 c0.1-0.1,0.3-0.2,0.4-0.2h4c0.2,0,0.3,0.1,0.4,0.2c0.1,0.1,0.2,0.3,0.2,0.4v6.1h4.7c0.2,0,0.3-0.1,0.4-0.2c0.1-0.1,0.2-0.3,0.2-0.4 v-8.3L9.9,4.2L2.2,10.4z'/><path d='M19.5,7.8L10.7,1c-0.4-0.3-1-0.3-1.4,0L4.6,4.6V2.8H2.2v3.6L0.5,7.8c-0.5,0.4-0.6,1.1-0.2,1.6 c0.2,0.3,0.6,0.5,0.9,0.5c0.1,0,0.3,0,0.4-0.1l8.1-6.5c0.2-0.1,0.4-0.1,0.5,0l8.3,6.5c0.5,0.1,1,0,1.3-0.4 C20.1,8.9,20.1,8.2,19.5,7.8z'/></svg>Home</a>
+	<a target='_blank' href='http://wax-o.com/'><svg xmlns='http://www.w3.org/2000/svg'><path d='M20,10c0-5.5-4.5-10-10-10S0,4.5,0,10s4.5,10,10,10c2.7,0,5.2-1.1,7-2.9h0c0.2-0.2,0.3-0.3,0.5-0.5h0 C19,14.9,20,12.5,20,10z M10,0.7c5.1,0,9.3,4.2,9.3,9.3c0,2.4-0.9,4.6-2.5,6.3l-3.7-1.7c0,0-0.1-0.1-0.3-0.2 c-0.4-0.3-0.4-1.3-0.4-1.6v0c0-0.2,0.1-0.4,0.1-0.5c0.1-0.1,0.3-0.2,0.5-0.3l0,0c0.4-0.3,0.5-1.2,0.6-1.3c0-0.2,0-0.4,0-0.4 c0-0.2-0.1-0.4-0.2-0.5l-0.1-0.1c0,0,0,0,0-0.1l0-0.7c0-1.9-1.6-3.5-3.5-3.5c-1.9,0-3.5,1.6-3.5,3.5c0,0.1,0,0.7,0,0.8 c0,0,0,0.1,0,0.1L6.3,9.8C6.2,9.8,6.1,10,6.1,10.2c0,0,0,0.2,0,0.4c0,0.2,0.2,1,0.6,1.3v0c0.2,0.1,0.5,0.3,0.5,0.4 c0,0.1,0.1,0.2,0.1,0.5v0c0,0.3,0,1.2-0.3,1.5c-0.2,0.1-0.3,0.2-0.3,0.2l-3.5,1.6l-0.1,0c-1.5-1.6-2.4-3.8-2.4-6.2 C0.7,4.9,4.9,0.7,10,0.7z M10,19.3c-2.4,0-4.7-1-6.3-2.5l0.7-0.3l0.1,0L7,15.2c0.2-0.1,0.4-0.2,0.5-0.3C8.1,14.4,8,13.1,8,12.9 c0-0.4-0.1-0.7-0.2-0.9c-0.1-0.1-0.3-0.3-0.7-0.5c-0.1-0.1-0.3-0.6-0.3-0.9c0-0.2,0-0.3,0-0.3v-0.1L6.9,10C7,9.9,7,9.7,7.1,9.6V9.6 c0,0,0-0.8,0-0.8c0-1.5,1.3-2.8,2.9-2.8c1.6,0,2.9,1.3,2.9,2.9l0,0.8v0c0,0.1,0.1,0.3,0.2,0.4l0.1,0.2v0v0c0,0,0,0.1,0,0.3 c-0.1,0.3-0.2,0.7-0.3,0.9c-0.5,0.3-0.6,0.4-0.7,0.5l0,0c-0.2,0.3-0.2,0.5-0.2,0.8c0,0.3-0.1,1.5,0.6,2.1c0.1,0.1,0.3,0.2,0.5,0.3 l2.9,1.3l0.6,0.3C14.7,18.4,12.4,19.3,10,19.3z'/></svg>About me</a>-->
+</nav>
+<%- body %>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.croclemonde.com","*.didoum.org"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.baboedoeh.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//stats.baboedoeh.com/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+</body>
+</html>

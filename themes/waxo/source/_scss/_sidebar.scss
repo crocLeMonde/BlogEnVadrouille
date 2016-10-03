@@ -1,0 +1,16 @@
+#sideBar { top: 0; left: 0; width: 100%; background: #eee; overflow: auto; color: #fff; background: #43cea2; background: linear-gradient(45deg, #43cea2 10%, #185a9d 90%); text-align: center;
+	> img { width: 100px; display: block; margin: 30px auto 10px auto; border: 5px solid rgba(255,255,255,.5); border-radius: 100%; }
+	> h1 { padding: 0 10px; text-align: center; font-size: 18px; font-weight: bold; }
+	> p { text-align: center; padding: 0 20px 30px 20px; font-size: 14px; }
+	> a { display: inline-block; padding: 10px 20px; color: #fff; text-decoration: none; font-size: 14px; font-weight: bold;
+		> svg { display: inline-block; vertical-align: text-bottom; width: 20px; height: 20px; margin-right: 20px; fill: #fff; }
+	}
+}
+
+@media screen and (min-width: 900px) {
+	#sideBar { position: fixed; height: 100%; width: 225px; text-align: left;
+		> a { display: block;
+			> svg { }
+		}
+	}
+}
