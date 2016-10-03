@@ -18,4 +18,4 @@ Allez, si, j'ai deux destinations à aller voir : Le Machu Pichu, situé près d
 
 Sur ce je vous dit à bientôt ici même, j'essaierai de mettre un article toutes les semaines environs (sous réserve de cyber cafés disponible).
 
-Etienne
+Etienne.
