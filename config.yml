@@ -1,0 +1,37 @@
+title: Blog en Vadrouille
+baseline: some tricks
+baseurl: https://cecilapp.github.io/statidocs/
+canonicalurl: true
+description: Blog de voyage.
+author:
+  name: Etienne Le Montreer
+  url: ''
+#image: og-card.png
+#language: fr
+#languages:
+#  - code: fr
+#    enabled: true
+#    name: Français
+#    locale: fr
+#    config:
+#      baseline: Une documentation efficace
+#      description: Créer et gérer une documentation efficace.
+theme:
+  - docs
+  - pwa
+serviceworker:
+  enabled: true
+github:
+  repo: https://github.com/crocLeMonde/statidocs
+  branch: main
+docsearch:
+  enabled: false
+  appId: R2IYF7ETH7
+  indexName: docsearch
+  apiKey: 599cec31baffa4868cae4e79f180729b
+sidebar:
+  - 2008
+  - 2009
+  - 2010
+  - 2011
+  - 2012
