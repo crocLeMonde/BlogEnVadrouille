@@ -1,6 +1,6 @@
 title: Blog en Vadrouille
 baseline: some tricks
-baseurl: https://croclemonde.github.io/BlogEnVadrouille
+baseurl: https://croclemonde.github.io/BlogEnVadrouille/
 canonicalurl: true
 description: Blog de voyage
 author:
@@ -35,3 +35,4 @@ sidebar:
   - 2010
   - 2011
   - 2012
+  - 2014
