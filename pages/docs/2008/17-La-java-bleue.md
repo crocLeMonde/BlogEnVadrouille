@@ -29,15 +29,15 @@ Etienne.
 
 Voici enfin les videos promises. Nous commencons par le trajet entre Bali et Borneo.
 
-<div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5bijw&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5bijw&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+[![100 heures a bord de la tiare moana]]({https://www.dailymotion.com/video/x5bijw} "100 heures a bord de la tiare moana")
 
-<div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x5bjba&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5bjba&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+[![Visite du bateau]]({https://www.dailymotion.com/video/x5bjba} "Visite du bateau")
 
 Puis le trajet entre Bornéo et Singapour
 
-<div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x59cll&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x59cll&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+[![Passage de l'équateur]]({https://www.dailymotion.com/video/x59cll} "Passage de l'équateur")
 
-<div><object width="640" height="505"><param name="movie" value="http://www.dailymotion.com/swf/x59o81&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x59o81&v3=1&related=1" type="application/x-shockwave-flash" width="640" height="505" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+[![Equateur partie 2]]({https://www.dailymotion.com/video/x59o81} "Equateur partie 2")
 
 ## Commentaires
 

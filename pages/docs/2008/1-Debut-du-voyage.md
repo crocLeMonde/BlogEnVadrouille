@@ -7,7 +7,7 @@ date: 2008/01/29 01:08:09
 
 J-1
 
-Bienvenue sur ce blog, il va nous permettre de vous donner des nouvelles de notre voyage en Inde qui débute mercredi matin__ _30 janvier donc.
+Bienvenue sur ce blog, il va nous permettre de vous donner des nouvelles de notre voyage en Inde qui débute mercredi matin, le 30 janvier donc.
 
 Ca y est les sacs sont faits, sac de couchage, passeport et bonnes chaussures, en tout c'est 27 kg que nous allons transporter à deux durant un mois. Notre but ? Aller voir les gens en dehors des circuits touristiques, nous déplacer en stop, en bus ou en train, voir en moto si nous arrivons à en avoir une.
 
