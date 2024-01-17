@@ -69,7 +69,6 @@ Mais au fait, vous savez à quoi servent les archipels ?
 
 __Tatid__ _19 déc. 2011_
 > Woooow encore des bien jolis photos et des endroits magnifiques ! Lucky you!
-
 Bon m'sieur le geek, va par contre falloir thuner le flux RSS pour que le contenu du post s'affiche direct dans Google Reader ;-).
 
 __Dova__ _21 déc. 2011_

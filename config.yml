@@ -1,8 +1,8 @@
 title: Blog en Vadrouille
 baseline: some tricks
-baseurl: https://cecilapp.github.io/statidocs/
+baseurl: https://croclemonde.github.io/BlogEnVadrouille
 canonicalurl: true
-description: Blog de voyage.
+description: Blog de voyage
 author:
   name: Etienne Le Montreer
   url: ''
@@ -22,7 +22,7 @@ theme:
 serviceworker:
   enabled: true
 github:
-  repo: https://github.com/crocLeMonde/statidocs
+  repo: https://github.com/crocLeMonde/BlogEnVadrouille
   branch: main
 docsearch:
   enabled: false
